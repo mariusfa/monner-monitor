@@ -1,0 +1,2085 @@
+{
+    "isLast": false,
+    "suggestionList": [
+        {
+            "isPledgable": true,
+            "aliasId": "refinansiering_holtevegen_fase__",
+            "loanAmount": 1490000,
+            "numberOfInvestors": 108,
+            "progressBar": 47,
+            "coreInfo": {
+                "status": "FUNDING"
+            },
+            "daysLeft": "16",
+            "equityDetails": null,
+            "amountPledged": 710305,
+            "progress": 47,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "45",
+                    "profitViewProsentage": "80",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "95",
+                    "liquidityRatio": "12,1",
+                    "solvencyRatio": "11",
+                    "profit": "11"
+                },
+                "purpose": "Refinansiering av kampanje fra april 2019",
+                "securityDescription": "Sidestilt 2. pri. pant i eiendommen",
+                "introductionText": "AS-Eiendom AS ble etablert i 2014 og kjøper, videreutvikler og selger eiendommer i Midt-Norge. Dette lånet skal brukes til å refinansiere lånefase 2 av eiendomsprosjektet Holtevegen 9 i Trondheim, som gikk til ferdigstillelse grunnarbeid og betong til eiendommen. AS-Eiendom AS har for tiden tre eiendomsprosjekter som finansieres via Monner; Lundemobakken, Holtevegen og Kyvannsvegen-prosjektet. Dette lånet vil ha sidestilt 2. prioritet pant i eiendommen etter et legalpant på kr 100 000. Lånet er avdragsfritt i hele låneperioden og hele lånebeløpet forfaller til betaling på siste termin. Låneavtalen muliggjør overtagelse av de to boligene hver for seg, se informasjon under og i låneavtalen under Dokumentasjon. Prosjektet legges snart ut for salg, men med bakgrunn i dagens Covid-19 situasjon tar de høyde for at de ikke for solgt og overlevert hus før slutten av august.",
+                "title": "Refinansiering Holtevegen fase 2 ",
+                "aboutTheLoan": [
+                    {
+                        "text": "Dette lånet til kr 1,49 mill. skal brukes til å refinansiere lånefase 2: ferdigstillelse grunnarbeid og betong til eiendommen Holtevegen 9 i Trondheim. Totalt har AS-Eiendom AS lånt kr 8,5 mill. til prosjektet, fordelt på fem lån. "
+                    },
+                    {
+                        "text": "Det jobbes nå med ferdigstillelse av de innvendige arbeidene på de to moderne eneboligene. Det blir to innholdsrike boliger med 4 soverom, åpent kjøkken og stueløsning, bad i forbindelse med hovedsoverom i 1 etasje og bad/vaskerom tilknyttet de tre øvrige soverommene i sokkel. Eiendommens gårds- og bruksnummer er 197 og 957 i Trondheim kommune."
+                    },
+                    {
+                        "headerText": "Om prosjektet ",
+                        "text": "Resultatet av eiendomsprosjektet Holtevegen 9 vil være to moderne eneboliger i kjede, på 108 kvm pr enhet. Boligene ligger i et godt område på Heimdal, med nærhet til skoler, butikker og ca 600 m i luftlinje fra Heimdal Sentrum. Boligene vil ha en smart utforming og gode solforhold i et godt etablert område. 4 soverom, 2 bad, garasje og fine terrasser. Grunnforholdene er litt fjell og svakt skrående terreng, med relativt enkelt grunnarbeid. Det er lagt opp til en god standard med 1-stavsparkett, profilerte dører og kjøkken fra Marbodal og en vedlikeholdsvennlig fasade."
+                    },
+                    {
+                        "text": "Totalt har AS-Eiendom AS lånt kr 8,5 mill. til prosjektet. For å minimalisere risikoen i prosjektet er det inngått en avtale om totalentreprise fra Byggnord AS (www.byggnord.no). Totalentreprisen er til en fast pris på kr 4,9 mill. = kr 22 731 per kvm. Byggnord AS er en veletablert entreprenør som har flere store utbyggere som blant annet Trondheim og Omegn BoligByggerlag (TOBB) i sin kundeportefølje. AS-Eiendom AS har svært god erfaring med Byggnord fra tidligere samarbeid."
+                    },
+                    {
+                        "text": "Husene er ikke annonsert for salg da planen er å ferdigstille husene, for så å selge dem. "
+                    },
+                    {
+                        "text": "Markedet i Trondheim fungerer for tiden bra og boligene ligger i et attraktivt strøk på Heimdal. "
+                    },
+                    {
+                        "text": "Vi planlegger å legge husene ut for salg i april. Likevel, med bakgrunn i dagens Covid-19 situasjon er vi forberedt på at vi ikke får solgt og overlevert hus før slutten av august. Dette kan bety av vi vil refinansiere flere faser til dette prosjektet med Monner."
+                    },
+                    {
+                        "headerText": "Om lånefasene ",
+                        "text": "Prosjektet har blitt utviklet i 5 faser med finansiering gjennom Monner: "
+                    },
+                    {
+                        "text": "Fase 1: Kjøp av tomt, prosjektering og oppstart grunnarbeid "
+                    },
+                    {
+                        "text": "Fase 2: Ferdigstillelse grunnarbeid og betong (refinansieres med dette lånet) "
+                    },
+                    {
+                        "text": "Fase 3: Råbygg inkl. rør og el., klart til gips og maling "
+                    },
+                    {
+                        "text": "Fase 4: Ferdigstillelse innvendig del 1 "
+                    },
+                    {
+                        "text": "Fase 5: Ferdigstillelse innvendig del 2 (stadiet vi er inne i nå)"
+                    },
+                    {
+                        "headerText": "Risiko i forbindelse med Koronaviruset ",
+                        "text": "AS-Eiendom AS har pr. 30.03.2020. 3 stk. igangsatte prosjekter, hvor alle er finansiert via Monner. I tillegg har selskapet et samarbeidsprosjekt med en eier andel på 30% av aksjene i Fortunalia Panorama AS, som for tiden bygger 7 eneboliger i rekke på Tesliåsen i Trondheim. Alle boligene er solgt og under ferdigstillelse. AS-Eiendom har ytterlige to nye prosjekter (Ugla vegen og Johan Tillers vei) som er under oppstart og planlagt finansiert via Monner."
+                    },
+                    {
+                        "text": "For pågående prosjekter er Holtvegen 90% ferdigstilt (2 stk. eneboliger) planlagt annonsert for salg rett etter påske, Lundemobakken (2 stk. eneboliger) er planlagt ferdigstilt i slutten av mai. For Kyvannsvegen (1 stk. enebolig) er selve huset planlagt levert i slutten av april, og planlagt ferdigstillelse er august 2020. Vi planlegger og annonsere huset for salg i løpet av mai."
+                    },
+                    {
+                        "text": "AS-Eiendom AS er ikke eksponert i leilighetsmarkedet som selskapet selv mener er overetablert i Trondheim. Selskapet fokuserer kun på familieboliger, som eneboliger og rekkehus i attraktive boligområder, hvor etterspørselen fortsatt er god. I forbindelse med Covid-19 tar selskapet nå høyde for at det kan ta lengere tid å få solgt boligene en normalt. Noe som kan bety økte finanskostnader og behov for å refinansiere noen av de eksisterende lånene selskapet har hos Monner, ved senere realisering en planlagt av eksisterende prosjekter, vil selskapet ikke få frigitt egenkapital i hht. til plan, noe som betyr at selskapet vil være litt avventende med kjøp av nye prosjekter."
+                    },
+                    {
+                        "text": "AS-Eiendom AS har minimalt med faste driftskostnader, og vil i april og juni få utbetalt utbytte fra prosjektet Fortunalia Panorama, noe som vil sikre at selskapet har nok egenkapital til å bære de ekstra finansieringskostnadene som kan komme i forbindelse med at salgene av Holtvegen og Lundemobakken kan ta lengere tid enn planlagt. "
+                    },
+                    {
+                        "text": "Pr. dags dato går alle prosjektene som normalt og selskapet har ikke permittert ansatte. AS-Eiendom har gode marginer i sine prosjekter og om det skulle bli nødvendig med en korreksjon i boligprisene er det rom for dette, uten at selskapet får økonomiske utfordringer."
+                    },
+                    {
+                        "headerText": "Om sikkerheten ",
+                        "text": "Lånet er sikret med sidestilt 2. prioritet pant i eiendommen etter et legalpant på kr 100 000. Lånet er avdragsfritt i hele låneperioden og hele lånebeløpet forfaller til betaling på siste termin. Låneavtalen muliggjør frigivelse av pant i én av de to boligene, i forbindelse med salg av boligen, mot samtidig delvis innfrielse av 50 % av långivernes lånebeløp. Eiendommens gårds- og bruksnummer er 197 og 957 i Trondheim kommune."
+                    }
+                ],
+                "loanAmount": "1490000",
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "12",
+                    "leadPrincipleFreeInstallments": "11",
+                    "interestPa": "10.1",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "12",
+                        "valueResult": "14",
+                        "equityRatio": "11",
+                        "year": "2019",
+                        "deptRatio": "8",
+                        "liquidityRatio": "12,1"
+                    },
+                    {
+                        "roeTotability": "7",
+                        "valueResult": "16",
+                        "equityRatio": "6",
+                        "year": "2018",
+                        "deptRatio": "14,6",
+                        "liquidityRatio": "5,8"
+                    },
+                    {
+                        "roeTotability": "11",
+                        "valueResult": "16",
+                        "equityRatio": "8",
+                        "year": "2017",
+                        "deptRatio": "11",
+                        "liquidityRatio": "3,5"
+                    }
+                ],
+                "aboutTheLoanImageText": "Innvendige arbeider er snart klare",
+                "aboutTheLoanImage1": "/document/id/eb0d8519-4357-4a49-887e-f07efd5c5e78",
+                "aboutTheLoanImage2": "/document/id/f0d09a5a-0400-4a12-b1c8-3fa2ac5bf48f",
+                "loanCustomer": {
+                    "organistionNumber": "914 204 577",
+                    "mainImage": "/document/id/9871ac3e-1f9e-4893-becf-84aef4d0e499",
+                    "businessImage1": "/document/id/fb1b5974-cf65-4315-a520-89bbcc8cce4d",
+                    "businessFacebookUrl": "https://www.facebook.com/AS-Eiendom-947047972164053/",
+                    "businessName": "AS-EIENDOM AS",
+                    "legalBusinessName": "AS-EIENDOM AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Litt om oss",
+                            "text": "AS-Eiendom AS ble etablert i 2014 og selskapets forretningsidé er kjøp av eiendommer for videreutvikling og salg i Midt-Norge. Siden oppstart har selskapet kjøpt og utviklet 7 egne eiendommer og har vært deleier og hatt prosjektledelsen i 4 andre prosjekter. I 2019 ble det kun ferdigstilt 4 prosjekter og igangsatt 3 prosjekter (se oversikt under Dokumentasjon). For 2020 planlegges det ferdigstillelse og salg av de pågående prosjektene Lundemobakken (mai), Holtvegen (februar/mars) og Kyvannsvegen (august), i tillegg har selskapet signert avtale om kjøp av en eneboligtomt i Johan Tilers vei 17, hvor det forventes oppstart i løpet av februar/mars. Utover dette er målsetningen den samme som 2019, at selskapet gjennomfører og selger 7-8 egne prosjekter i løpet av 2020. Selskapet har flere gode prosjekter under vurdering og har håp om å kunne starte opp i tillegg til Johan Tilers vei, et-to nye prosjekt i løpet av første halvår og ytterlige 3 prosjekter i løpet av siste halvår."
+                        },
+                        {
+                            "text": "I tillegg er selskapet deleier (30%) i Fortunalia Panorama AS som holder på å bygge 7 eneboliger for salg i Trondheim. Byggingen er igangsatt alle 7 boligene er solgt hvor av 2 av 7 hus ble levert i desember 2019 og resterende 5 husene ferdigstilles og overleveres fortløpende 3 stk er planlagt overlevert i Q1 2020 og de 2 siste husene er planlagt overlevert i løpet av april 2020. Salgsverdi er ca. kr 52,5 mill. og kalkulert resultat er ca. kr 10 mill. før skatt. Det er inngått totalentreprise med en lokal entreprenør."
+                        },
+                        {
+                            "headerText": "Kommentar til regnskap",
+                            "text": "Selskapet fører regnskapene selv og de er til enhver tid oppdatert. Regnskapet for 2018 viser en omsetning på kr 18,3 mill., med et resultat på kr 1,7 mill. etter skatt. For 2019 budsjetterte selskapet med en omsetning på ca. kr 40 mill. og et resultat på ca. kr 3,5 mill. Men på grunn av forsinkelser nevnt tidligere fikk ikke selskapet ferdigstilt så mange prosjekter som planlagt. Foreløpige tall per desember 2019 viser en foreløpig omsetning på kr 20 mill. og et foreløpig resultat før skatt på kr 2 mill. Selskapet har en deltidsansatt regnskapsfører som fører regnskapene og holder orden i papirene på kontoret slik at Svein Magne og Viggo kan ha fullt fokus på kjernevirksomheten."
+                        },
+                        {
+                            "headerText": "Om menneskene bak",
+                            "text": "Svein Magne Saksvik er daglig leder, han er utdannet murer med mesterbrev, og har over 20 års erfaring fra bygg- og anleggsbransjen, hvor han har hatt både utførende og ledende roller i ulike entreprenørselskaper. Svein Magnes hovedoppgave er kalkulering, drift og gjennomføring av selskapets prosjekter."
+                        },
+                        {
+                            "text": "Viggo E. Amundsen er styrets leder og har bakgrunn fra økonomi, salg og ledelse. Han har de siste 6 årene jobbet i entreprenørbransjen, hans hovedoppgave er å finne eiendommer som selskapet kan utvikle, samt å håndtere de finansielle aspektene i selskapet."
+                        },
+                        {
+                            "text": "Svein Magne og Viggo har tidligere vært eiere og styremedlemmer i entreprenørkonsernet Loqent, som ble slått konkurs i 2017. På dette tidspunktet satt Viggo som styreleder i selskapet og Svein Magne satt som styremedlem. Hovedårsaken til konkursen var at selskapet vokste for raskt. Selskapet hadde på det meste 50 ansatte. Entreprenørbransjen er krevende i denne størrelsen og da gjennomføringen av et større byggeprosjekt gikk galt, fikk selskapet utfordringer med likviditeten. I et forsøk på å rydde opp og få selskapet i balanse overtok Viggo og Svein Magne alle aksjene og ledelsen i selskapet. Svein Magne og Viggo tilførte ny egenkapital ved flere anledninger i form av økning i egenkapitalen og innlån av penger."
+                        },
+                        {
+                            "text": "Mot slutten hadde ikke selskapet nok penger til både lønn og skattetrekk, men hadde pågående prosjekter og innbetalinger i sikte. Prosjektene ble levert, men kraftig forsinket og oppgjørene ble avkortet med døgnmulkt og andre mangler. Dette gjorde at det ikke ble nok penger til å innbetale skattetrekket fullt ut. Resultatet i dette ble at Viggo og Svein Magne, som utgjorde ledelsen ved konkurstidspunktet, ble politianmeldt for dette. På grunn av beløpets størrelse ble Viggo, som satt som styreleder under konkursen, i januar 2019 domfelt for dette forholdet."
+                        },
+                        {
+                            "text": "Viggo har følgende kommentar til saken: \"Dette er en alvorlig sak og den har gitt meg mye læring. Den viktigste lærdommen er at man alltid skal ha tilstrekkelig likviditet og god nok soliditet i selskapet til å håndtere overraskelser. Ting går ikke alltid som planlagt. I selskapet som jeg leder i dag, AS-Eiendom AS, har vi derfor blant annet valgt å ikke gjennomføre byggeoppdragene selv, men å sette ut byggingen til en totalentreprenør, eller til delt entreprise samtidig som vi internt har kompetanse til å følge opp utviklingen i byggeprosjektene selv.\""
+                        },
+                        {
+                            "headerText": "Selskapets administrasjon",
+                            "text": "AS-Eiendom har prosjektrelaterte kostnader på netto kr 168 000 per måned."
+                        },
+                        {
+                            "text": "Selskapet har tre heltidsstillinger og en deltidsstilling."
+                        },
+                        {
+                            "text": "Administrasjonen vurderer driftskostnadene til lave og disse kostnadene lar seg imidlertid ikke redusere. Selskapets ledelse planlegger å holde administrasjonen slik den er og ut 2024. Selskapets administrasjon har kapasiteten til å håndtere inntil 10 boenheter/prosjekter per år."
+                        },
+                        {
+                            "headerText": "Risiko",
+                            "text": "Selskapet har en meget forutsigbar drift, og det er ikke knyttet usikkerheter rundt kostnader som ikke er prosjektrelaterte kostnader. For å sikre forutsigbare kostnader i prosjektene gjennomfører selskapet alle sine prosjekter i form av totalentreprise eller som delte entrepriser til faste priser, som er avtalt før prosjektene igangsettes. Det velges også utelukkende faste samarbeidspartnere som over tid har vist gode resultater både økonomisk og kvalitetsmessig."
+                        },
+                        {
+                            "text": "Før selskapet velger ut et prosjekt og kjøper en eiendom eller en tomt, gjøres det nøye undersøkelser og utredelser for å kvalitetssikre at prosjektet er gjennomførbart. Selskapet søker prosjekter som kan realiseres innenfor 1-2 år."
+                        },
+                        {
+                            "text": "For prosjektfinansiering samarbeider selskapet med Hegra Sparebank, SMN 1 og Monner."
+                        }
+                    ],
+                    "numberOfEmployee": "9",
+                    "CEO": "Svein Magne Saksvik",
+                    "businessWebsiteUrl": "https://as-eiendom.webnode.com/"
+                }
+            },
+            "status": "FUNDING",
+            "id": "ebaf2d64-abb9-4945-aa65-2c50c75dabc2"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "refinansiering_ragbakken_",
+            "loanAmount": 2500000,
+            "numberOfInvestors": 149,
+            "progressBar": 46,
+            "coreInfo": {
+                "status": "FUNDING"
+            },
+            "daysLeft": "0",
+            "equityDetails": null,
+            "amountPledged": 1160380,
+            "progress": 46,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "15",
+                    "profitViewProsentage": "15",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "90",
+                    "liquidityRatio": "2,2",
+                    "solvencyRatio": "0",
+                    "profit": "-57"
+                },
+                "purpose": "Refinansiering av fase 2 og 3 av leilighetsprosjekt på Madla",
+                "introductionText": "Phønix Eiendom AS ble etablert i 1992 og driver med utleie av egen eiendom. Selskapet utvikler nå leiligheter til salg i en eiendom de allerede eier. Totalt har Phønix Eiendom AS lånt kr 5 mill. til prosjektet via Monner, fordelt på tre lånefaser. Det første på kr 2,5 mill. er allrede innfridd. Dette lånet vil refinansiere de siste to lånefasene i forbindelse med prosjektet til kr 2,5 mill. Dette lånet har sidestilt 2. prioritets pant i eiendommen bak et 1. prioritets banklån på kr 10 mill. Lånet er avdragsfritt i hele låneperioden. Låneavtalen muliggjør frigivelse av pant av næringsdel eller leiligheter, i forbindelse med salg, mot samtidig delvis innfrielse av 17 % av långivernes lånebeløp per frigitte leilighet/næringsdel. Selskapet vil akseptere lånet ved tegning av minimum kr 1 mill.",
+                "securityDescription": "Sidestilt 2. pri. pant. i eiendommen",
+                "title": "Refinansiering Ragbakken 84",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hva skal vi bruke lånet til?",
+                        "text": "Dette lånet vil refinansiere de siste to lånefasene i forbindelse med leilighetsprosjektet Ragbakken 84 på Madla i Stavanger kommune. Prosjektet utvikles i henhold til alle forskrifter og denne refinansieringen vil sørge for at vi skal kunne levere prosjektet på plan."
+                    },
+                    {
+                        "headerText": "Om prosjektet",
+                        "text": "Phønix Eiendom kjøpte Ragbakken 84 seksjon 2 allerede i 2010. Vi har jobbet i flere år med utviklingen av eiendommen som i utgangspunktet var et fullt næringsbygg, men hvor det nå er foretatt en bruksendring for deler av 2. etasje og bygger 8 nye leiligheter som ligger i 3. og 4. Etasje. "
+                    },
+                    {
+                        "text": "Ragbakken 84 vil bestå av unike leiligheter med flotte løsninger og høy standard. Alle leilighetene har stor takterrasse og i tillegg har 4 stk. av leilighetene balkong."
+                    },
+                    {
+                        "text": "Tilstandsrapport ligger som vedlegg under Dokumentasjon. "
+                    },
+                    {
+                        "text": "Estimert markedsverdi av seksjon 2 ved ferdigstillelse:"
+                    },
+                    {
+                        "text": "Næringsareal: 700 kvm, verdi på kr 10 000 per kvm; totalt kr 7 mill. "
+                    },
+                    {
+                        "text": "Leilighetsareal: 1 000 kvm, verdi på kr 36 000 per kvm; totalt kr 36 mill. "
+                    },
+                    {
+                        "text": "Totalt verdi: kr 43 mill. "
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Finansiering av prosjektet ved utgangen av 2018: "
+                    },
+                    {
+                        "text": "SR-Bank lån: kr 10 mill. "
+                    },
+                    {
+                        "text": "Andre låntakere: kr 2,5 mill. "
+                    },
+                    {
+                        "text": "Egenkapital: kr 4,5 mill. "
+                    },
+                    {
+                        "text": "Total finansiering 2018: kr 17 mill. "
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Finansiering av prosjektet i 2019: "
+                    },
+                    {
+                        "text": "Lån via Monner: kr 5 mill. "
+                    },
+                    {
+                        "text": "Egenkapital: kr 5 mill. "
+                    },
+                    {
+                        "text": "Total finansiering 2019: kr 10 mill. "
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Refinansiering via Monner i 2020: "
+                    },
+                    {
+                        "text": "Januar: Fase 1 på kr 2,5 mill. tilbakebetalt til Monner-investorenene ."
+                    },
+                    {
+                        "text": "Refinansieringslån av fase 2 og 3: kr 2,5 mill. "
+                    },
+                    {
+                        "text": "Opplån: kr 2,5 mill. (lånet som ble tilbakebetalt i januar 2020)."
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Total finansiering av prosjektet: kr 27 mill. "
+                    },
+                    {
+                        "text": "Estimert markedsverdi: kr 43 mill."
+                    },
+                    {
+                        "headerText": "Om lånefasene",
+                        "text": "Prosjektet vil bli utviklet og finansiert med 3 lånefaser via Monner samt et refinansieringslån og et tilleggslån som vil finansiere ferdigstillelse av prosjektet:"
+                    },
+                    {
+                        "text": "Fase 1: Innvendig konstruksjon av vegger, isolasjon og ventilasjon "
+                    },
+                    {
+                        "text": "Fase 2: Bestilling av glass til rekkverk på takterrasser og tak til gang, teknisk arbeid og start på installasjon av heis, isolere og legge ca. 800 kvm gulv "
+                    },
+                    {
+                        "text": "Fase 3: Gipsing og maling av vegger, installasjon av kjøkken og glass til rekkverk på takterrasser og tak til gang "
+                    },
+                    {
+                        "text": "Refinansiering Fase 2 og 3: Dette lånet "
+                    },
+                    {
+                        "text": "Opplån: Byggelån for å ferdigstille Ragbakken 84 på kr 2,5 mill. (kommer snart)"
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med 2. prioritets pant på kr 5 mill. i eiendommen med gårds-/bruksnummer 39/473, seksjon 2 i Stavanger kommune. Phønix Eiendom AS kan låne totalt kr 5 mill. gjennom Monner og sikkerheten vil være sidestilt i pantet. Advokatfirmaet Schjødt AS er sikkerhetsagent og vil dermed innføres i eiendommens grunnbok som panthaver på vegne av investorene. SpareBank 1 SR-Bank har fra før førsteprioritets pant på kr 10 mill. "
+                    },
+                    {
+                        "text": "Dersom Monner sine investorer gjennom lånets sikkerhetsagent registrerer pant før reseksjonering vil pantet overføres til alle seksjonene. Det vil si at alle de ni seksjonene vil ha likelydende pant på kr 5 mill. som seksjon 2 hadde før reseksjoneringen. "
+                    },
+                    {
+                        "text": "Låneavtalen muliggjør frigivelse av pant av næringsdel eller leiligheter, i forbindelse med salg, mot samtidig delvis innfrielse av 17 % av långivernes lånebeløp per frigitte leilighet/næringsdel."
+                    },
+                    {
+                        "text": "Sikkerheten til Monner sine investorer vil derfor ikke bli forringet av reseksjoneringen."
+                    },
+                    {
+                        "headerText": "Risiko i forbindelse med Koronaviruset",
+                        "text": "Byggearbeidet fortsetter som vanlig i månedene fremover. Mange eiendomsutviklere er bekymret for vareleveranser i den kommende tiden. Vi har gjennom hele prosjektet prioritert å få varer levert tidlig for å maksimere tiden til håndverkerne. At vi allerede har materialene på byggeplassen vil naturligvis være en fordel for oss i tiden fremover. Håndverkerne har nok å gjøre og de har nok materialer til å holde på frem til sommeren. Phønix har også få håndverkere på plass av gangen. Det betyr lite feil og null skader så langt i hele prosjektet. Vi er stolte av sikkerheten på arbeidsplassen. I Korona-tiden vil det gjøre det enklere for oss å vedlikeholde forhåndsregler for smitte."
+                    }
+                ],
+                "loanAmount": "2500000",
+                "riskClass": "B",
+                "terms": {
+                    "numberOfInstallements": "12",
+                    "leadPrincipleFreeInstallments": "11",
+                    "interestPa": "9.6",
+                    "backpaymentFeePercent": "1"
+                },
+                "aboutTheLoanImageText": "Innvendige og utvendige arbeider begynner å ta form.",
+                "economicIndicators": [
+                    {
+                        "roeTotability": "0",
+                        "valueResult": "-52",
+                        "equityRatio": "0",
+                        "year": "2019",
+                        "deptRatio": "1961",
+                        "liquidityRatio": "2,2"
+                    },
+                    {
+                        "roeTotability": "0",
+                        "valueResult": "-17",
+                        "equityRatio": "3",
+                        "year": "2018",
+                        "deptRatio": "32",
+                        "liquidityRatio": "0,2"
+                    },
+                    {
+                        "roeTotability": "5",
+                        "valueResult": "65",
+                        "equityRatio": "9",
+                        "year": "2017",
+                        "deptRatio": "11",
+                        "liquidityRatio": "1,9"
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/08fe292c-a1aa-4c81-a878-a6d6c085b27b",
+                "aboutTheLoanImage2": "/document/id/c0427187-f701-4d27-a310-3963fdfcee11",
+                "loanCustomer": {
+                    "organistionNumber": "964 313 385",
+                    "mainImage": "/document/id/4a10a1a3-ce1a-4447-9f9e-6a288c436cda",
+                    "businessImage1": "/document/id/90a8373d-0c74-48ff-b0b2-8b38750f9ea4",
+                    "businessName": "PHØNIX EIENDOM AS",
+                    "businessImageText": "Rolf og Ine eier og driver selskapet sammen. Rolf er daglig leder, mens Ine er økonomiansvarlig.",
+                    "legalBusinessName": "PHØNIX EIENDOM AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Kommentar til finansielle nøkkeltall",
+                            "text": "I 2018 og 2019 fokuserte Phønix Eiendom AS på utviklingen av leilighetene. Inntektene i perioden kommer fra utleie av næringsdelen. Dette resulterte i store kostnader og få inntekter. "
+                        },
+                        {
+                            "text": "Prosjektet så langt er finansiert ved hjelp av banklån, Monner, private investorer og egenkapital. Prosjektet ligger etter originalt tidsskjema, men ligger ikke etter på budsjett. Vi har ikke sløst med pengene og forventer et solid overskudd på prosjektet. "
+                        },
+                        {
+                            "text": "Verdien på næringsdelen som blir igjen etter reseksjonering er estimert til å være på cirka kr 7 mill. Leilighetene kan omsettes for konservativt kr 4,5 mill. per stykk i følge takstmann (totalt kr 36 mill.). Totalt vil prosjektet ha en verdi på kr 43 mill. når det står ferdig."
+                        },
+                        {
+                            "text": "Det er lastet opp nytt foreløpig regnskap og derfor nytt forenklet årsregnskap fredag 27.mars. Her er rentene i forbindelse med Monner-lån lagt inn som prosjektkostnader. Dette forbedrer egenkapitalen i 2019. I tillegg er en avsetning på kr 90 000 i fordringer tatt vekk som også forbedrer egenkapitalen."
+                        },
+                        {
+                            "headerText": "Litt om oss",
+                            "text": "Phønix Eiendom AS ble etablert i 1992 og vi driver med utleie av egen eiendom. Vi har tidligere hatt mellom kr 720 000 og kr 1,2 mill. i leieinntekter per år. Hoveddelen av disse kom fra en eiendom på Madla i Stavanger. Denne eiendommen er nå revet og skal utvikles til leiligheter."
+                        },
+                        {
+                            "headerText": "Om nøkkelpersonene",
+                            "text": "Rolf Thorstensen startet Phønix Eiendom AS sammen med en venn i 1992. Etterhvert overtok Ine Helvik (nå ektefelle) 50% av aksjene og alt gjøres nå i fellesskap mellom dem to. Thorstensen har teknisk kompetanse etter flere år i Nordsjøen, Helvik har økonomisk kompetanse."
+                        },
+                        {
+                            "headerText": "Markedsføring og salg",
+                            "text": "I forbindelse med salg av prosjekter vil vi jobbe med en megler. Vi kommer til å markedsføre salg av leilighetene på finn.no og i lokalavisen."
+                        },
+                        {
+                            "headerText": "Våre kunder",
+                            "text": "Vi driver i hovedsak med næringsutleie, men nå altså også med utvikling av leiligheter. Vi har ikke faste kunder foruten leietakere av eiendommene."
+                        }
+                    ],
+                    "numberOfEmployee": "4",
+                    "CEO": "Rolf Sverre Thorstensen",
+                    "businessWebsiteUrl": ""
+                }
+            },
+            "status": "FUNDING",
+            "id": "bc252a88-c69a-4673-963a-58cae4b379a5"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "brofinansiering_av_oppussingsprosjekt1",
+            "loanAmount": 600000,
+            "numberOfInvestors": 80,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "FUNDING"
+            },
+            "daysLeft": "19",
+            "equityDetails": null,
+            "amountPledged": 600000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "75",
+                    "profitViewProsentage": "100",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "85",
+                    "liquidityRatio": "2,0",
+                    "solvencyRatio": "23",
+                    "profit": "20"
+                },
+                "purpose": "Fase 2: Ferdigstillelse av alle overflater ",
+                "introductionText": "TA-Eiendom AS ble etablert i 2018 og spesialiserer seg på utleieboliger i Trondheim. Nøkkelpersonen Viggo E. Amundsen er også sentral i AS-Eiendom AS som har hatt flere vellykkede lånekampanjer på Monner. TA-Eiendom AS skal rehabilitere en enebolig på Jakobslia i Trondheim som skal overtas 01.06.2020. Dette lånet skal finansiere fase to av rehabiliteringen av eneboligen. Lånet er sikret med 3. prioritets pant på kr 0,6 mill. i eiendommen.",
+                "securityDescription": "3.pri.pant i eiendommen",
+                "title": "Brofinansiering av oppussingsprosjekt",
+                "aboutTheLoan": [
+                    {
+                        "text": "Dette lånet skal finansiere rehabilitering av en enebolig på attraktive Jakobslia i Trondheim. TA-Eiendom AS skal etablere to leiligheter i kjelleren og rehabilitere hovedenheten. Begge leilighetene i kjeller blir cirka 50 kvm store og har egen inngang, to soverom, bad og kjøkken/stue. Hovedenheten blir oppgradert med nytt kjøkken, nytt bad, alle gulv blir skiftet til moderne 1-stavs parkett og alle overflater blir malt i moderne farger."
+                    },
+                    {
+                        "text": "Rehabiliteringen er allerede igangsatt og kalkulert kostnad er kr 1,5 mill."
+                    },
+                    {
+                        "text": "Totalt vil vi låne kr 1,2 mill. til dette prosjektet via Monner fordelt på 2 lån."
+                    },
+                    {
+                        "text": "Selskapet har inngått en bindende kjøpsavtale med overtakelse av boligen 01.06.2020. I perioden før overtakelse har selskapet fri tilgang til å rehabilitere boligen. Selskapet forventer å ha boligen ferdigstilt i løpet av mai 2020 i god tid før overtakelse. Ved overtakelse 01.06.2020 vil finansiering til huskjøpet og dette lånet refinansieres via bank. Alle investorene i dette og det forrige lånet på Monner vil få tilbakebetalt sin investering i forbindelse med refinansiering av SpareBank 1 SMN."
+                    },
+                    {
+                        "headerText": "Om prosjektet",
+                        "text": "Boligene ligger i et meget attraktivt boligstrøk i Nyheimsvegen 68A på øvre Jakobsli i Trondheim. Boligen er på hele 360 kvm fordelt over 3 plan. Tidligere eier oppgraderte i 2019 boligen med etterisolering og drenering av grunnmur, nye vinduer, hele huset ble malt utvendig og det ble etablert to nye inngangsparti for utleie til kjeller."
+                    },
+                    {
+                        "text": "Huset vil inneholde to utleieleiligheter med potensiell leieinntekt på cirka kr 20 000 i måneden. I hovedenheten er det 4 store soverom, to bad, gjestetoalett, vaskerom, kjøkken to stuer og en loftstue."
+                    },
+                    {
+                        "text": "Huset kjøpes for kr 5,94 mill. og rehabiliteres for kr 1,5 mill. total kostnad = kr 7,44 mill. Meglerhuset Nylander har vurdert huset forsiktig til å kunne selges for kr 8,5 mill. En tilsvarende bolig i samme område, men med mindre areal, ca. 260 kvm, kun et utleieforhold og oppgradert for ca 10 år siden, lå nylig ut for salg, til en prisantydning på kr 8,89 mill. Denne boligen ble solgt for kr 9,8 mill."
+                    },
+                    {
+                        "text": "TA-Eiendom AS rehabiliterer ikke boligen for videresalg, men har planer om å leie ut boligen i 3 år før den eventuelt skal selges. TA-Eiendom har kr 0,6 mill. i gjeld på dette prosjektet og Inge Lilleøkdal har resten."
+                    },
+                    {
+                        "text": "Estimerte leieinntekter per år er kr 0,55 mill."
+                    },
+                    {
+                        "headerText": "Om lånefasene",
+                        "text": "Prosjektet vil bli utviklet og finansiert med 2 lånefaser via Monner:"
+                    },
+                    {
+                        "text": "Fase 1: Oppbygging av delevegger og lydhimlinger i kjeller for etablering av to leiligheter. Omlegging og etablering av nytt elektrisk anlegg, og av nye vann- og avløpsrør. Diverse omgjøring av delevegger i hovedenhet. Klart til maling og nye parkettgulv"
+                    },
+                    {
+                        "text": "Fase 2: Ferdigstillelse av alle overflater (dette lånet)."
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med 3. prioritets pant på kr 0,6 mill. i eiendommen. Eiendommen har gårds-/bruksnummer 18/60 i Trondheim kommune. Lindorff Capital AS er sikkerhetsagent og vil dermed innføres i eiendommens grunnbok som panthaver på vegne av investorene. Pantet har prioritet bak Lindorff Capital AS (det første Monner-lånet) på kr 0,6 mill. på 2. prioritet for et lån på kr 0,6 mill. og bak Sparebank 1 SMN på kr 8,0 mill på 1. prioritet for et lån på kr 5,96 mill."
+                    },
+                    {
+                        "text": "Eiendommen er eid av Inge Lilleøkdal som stiller den pantsatte eiendommen som sikkerhet for lånet som realkausjon."
+                    },
+                    {
+                        "headerText": "Risiko i forbindelse med Koronaviruset",
+                        "text": "Korona-viruset betyr noen forsinkelser med f.eks. kjøkken, men forsinkelsene ser ikke ut til å havne på mer enn et par uker. Siden dette prosjektet skal refinansieres av bank før vi så skal drive utleie, er vi ikke avhengig av salg. Det betyr at vi ikke er sårbare for svingninger i eiendomsmarkedet. Vår viktigste suksessfaktor er å få gode leietakere. Vi har erfaring med utleie og har tro på at dette skal gå fint. Historisk har vi opplevd at leiemarkedet jobber motsyklisk i forhold til boligprisutvikling. Derfor er vi Selskapet har en meget forutsigbar drift, og det er ikke knyttet usikkerheter rundt kostnader som ikke er prosjektrelaterte kostnader. For å sikre forutsigbare kostnader i prosjektene gjennomfører selskapet alle sine prosjekter i form av delte entrepriser til faste priser, som er avtalt før prosjektene igangsettes. Det velges også utelukkende faste samarbeidspartnere som over tid har vist gode resultater både økonomisk og kvalitetsmessig. Selskapets mål er å utvikle 1-2 eiendommer per år. For langsiktig finansiering samarbeider selskapet med SMN 1."
+                    }
+                ],
+                "loanAmount": "600000",
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "12",
+                    "leadPrincipleFreeInstallments": "11",
+                    "interestPa": "11",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "2",
+                        "valueResult": "58",
+                        "equityRatio": "23",
+                        "year": "2019",
+                        "deptRatio": "3",
+                        "liquidityRatio": "2,0"
+                    },
+                    {
+                        "roeTotability": "15",
+                        "valueResult": "21",
+                        "equityRatio": "36",
+                        "year": "2018",
+                        "deptRatio": "2",
+                        "liquidityRatio": "0,2"
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/11654105-a46a-4402-b852-1365e4ccfd43",
+                "aboutTheLoanImage2": "/document/id/4fbd74cd-191c-4914-9f1e-530e11377a85",
+                "loanCustomer": {
+                    "organistionNumber": "921 189 990",
+                    "mainImage": "/document/id/a662253b-e615-4c2d-b38f-3e8f6b78b7c6",
+                    "businessImage1": "/document/id/678c13eb-7baf-45cf-9b07-eb24579480a8",
+                    "businessName": "TA-Eiendom AS",
+                    "legalBusinessName": "TA-Eiendom AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Kommentar til finansielle nøkkeltall",
+                            "text": "Regnskapet for 2019 viser en omsetning på kr 120 000, med et årsresultat på kr 15 000, inntektene stammer fra utleie av en leilighet på Persaunet i Trondheim (august-desember) Leiligheten leies ut for kr 20 000 per måned. Egenkapitalen per 31.12.2019 er på kr 957 000."
+                        },
+                        {
+                            "text": "TA-Eiendom har totalt i alle prosjekter cirka kr 3,8 mill. i gjeld, hovedsaklig på et prosjekt som ikke er finansiert via Monner."
+                        },
+                        {
+                            "headerText": "Litt om oss",
+                            "text": "TA-Eiendom AS ble etablert i 2018 og selskapets forretningsidé er kjøp av eiendommer med potensiale for verdiøkning via rehabilitering primært for utleie. Selskapet er et heleid selskap av investeringsselskapet Pathfinder Invest AS som igjen eies av Viggo E. Amundsen. Pathfinder Invest AS eier i tillegg 50% av eiendomsselskapet AS-Eiendom AS som har flere vellykkede lånekampanjer via Monner. TA-Eiendom AS har en innskutt aksjekapital på kr 930 000 og eier i dag en leilighet for utleie på Persaunet i Trondheim. Selskapet har ingen ansatte."
+                        },
+                        {
+                            "headerText": "Om nøkkelpersonene",
+                            "text": "Selskapet har ingen daglig leder, men styres av styret som i dag består av styreleder Ernst Amundsen og styremedlem Viggo E. Amundsen. Selskapet tegnes av styret i fellesskap. I løpet av Q1 2020 vil styrets leder gå av og erstattes med Tone R. Hemmingby som i dag er ansatt som regnskapsfører i AS-Eiendom AS. Viggo E. Amundsen har sitt daglige virke i AS-Eiendom AS og har bakgrunn fra økonomi, salg og ledelse. Han har de siste 7 årene jobbet i eiendomsbransjen. Hans hovedoppgave er å finne eiendommer som selskapet kan utvikle."
+                        },
+                        {
+                            "text": "Viggo har tidligere vært eiere og styremedlemmer i entreprenørkonsernet Loqent, som ble slått konkurs i 2017. På dette tidspunktet satt Viggo som styreleder i selskapet og Svein Magne satt som styremedlem. Hovedårsaken til konkursen var at selskapet vokste for raskt. Selskapet hadde på det meste 50 ansatte. Entreprenørbransjen er krevende i denne størrelsen og da gjennomføringen av et større byggeprosjekt gikk galt, fikk selskapet utfordringer med likviditeten. I et forsøk på å rydde opp og få selskapet i balanse overtok Viggo og Svein Magne alle aksjene og ledelsen i selskapet. Svein Magne og Viggo tilførte ny egenkapital ved flere anledninger i form av økning i egenkapitalen og innlån av penger."
+                        },
+                        {
+                            "text": "Mot slutten hadde ikke selskapet nok penger til både lønn og skattetrekk, men hadde pågående prosjekter og innbetalinger i sikte. Prosjektene ble levert, men kraftig forsinket og oppgjørene ble avkortet med døgnmulkt og andre mangler. Dette gjorde at det ikke ble nok penger til å innbetale skattetrekket fullt ut. Resultatet i dette ble at Viggo og Svein Magne, som utgjorde ledelsen ved konkurstidspunktet, ble politianmeldt for dette. På grunn av beløpets størrelse ble Viggo, som satt som styreleder under konkursen, i januar 2019 domfelt for dette forholdet."
+                        },
+                        {
+                            "text": "Viggo har følgende kommentar til saken: \"Dette er en alvorlig sak og den har gitt meg mye læring. Den viktigste lærdommen er at man alltid skal ha tilstrekkelig likviditet og god nok soliditet i selskapet til å håndtere overraskelser. Ting går ikke alltid som planlagt. I selskapet som jeg leder i dag, AS-Eiendom AS, har vi derfor blant annet valgt å ikke gjennomføre byggeoppdragene selv, men å sette ut byggingen til en totalentreprenør, eller til delt entreprise samtidig som vi internt har kompetanse til å følge opp utviklingen i byggeprosjektene selv.\""
+                        },
+                        {
+                            "headerText": "Markedsføring og salg",
+                            "text": "TA-Eiendom AS rehabiliterer ikke boligen for videresalg, men har planer om å leie ut boligen i 3 år før den eventuelt skal selges."
+                        },
+                        {
+                            "headerText": "Våre kunder",
+                            "text": "Våre kunder er privatpersoner/familier som leier for å bo selv."
+                        }
+                    ],
+                    "CEO": ""
+                }
+            },
+            "status": "FUNDING",
+            "id": "e525685c-c903-476b-8939-630357375ffb"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "kjoep_av_printmaskin",
+            "loanAmount": 250000,
+            "numberOfInvestors": 38,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "FUNDING"
+            },
+            "daysLeft": "16",
+            "equityDetails": null,
+            "amountPledged": 250000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "100",
+                    "profitViewProsentage": "100",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "100",
+                    "liquidityRatio": "2,3",
+                    "solvencyRatio": "42",
+                    "profit": "210"
+                },
+                "purpose": "Øker veksten og forbedrer leveringstider ved å flytte produksjonen internt",
+                "introductionText": "Villakids AS ble etablert i 2018 og selger barneprodukter på nett. Selskapet opplever stadig vekst og ønsker å forbedre sine marginer og leveringstider. Dette lånet skal finansiere kjøp av en ny print-maskin for å produsere ‘wallstickers’ og tapeter selv. I tillegg vil lånet delvis finansiere innkjøp av flere varer. Lånet er sikret med personlig garanti fra daglig leder i tillegg til pant i varelageret.",
+                "securityDescription": "Personlig garanti fra daglig leder og 2. pri. pant i varelager",
+                "title": "Kjøp av print-maskin",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hva skal vi bruke lånet til?",
+                        "text": "Dette lånet skal brukes til varekjøp og kjøp av en ny printe/kutte maskin som produserer markedsføringsartikler, wallstickers, plakater og tapet som vil selges til kunder. Den nye maskinen koster kr 120 000. Resterende av lånesummen vil bli brukt til varekjøp. Målet er å øke veksten og forbedre leveringstider. "
+                    },
+                    {
+                        "text": "Det skal kjøpes inn varer med god kalkyle fra utvalgte fabrikker i Kina. Vi skal fylle på med bestselgere og utvikle våre egne produkter med eget design, som for eksempel: sengehimler, kosedyr, treleker og mye mer. Varene dette gjelder er de varene vi kan produsere selv med maskinen vi skal kjøpe. Et wallsticker-ark koster kr 40 å produsere (et stort ark med blekk), og med riktige motiver kan man selge dette ut for kr 1399 – 2100. Vi skal designe selv, så vi får noe helt unikt. Dette vil øke våre marginer betraktelig."
+                    },
+                    {
+                        "headerText": "Om veksten fremover",
+                        "text": "Vi har flere mål og planer for fremtiden til Villakids AS, og her er et knippe punkter som viser retninger og mål vi ønsker å oppnå. "
+                    },
+                    {
+                        "text": "-Vi vil jobbe mot å bli en av Norges største butikker for barn og tenåringer"
+                    },
+                    {
+                        "text": "-Villateen.no er også en nettbutikk vi har på skissebordet og ønsker å videreutvikle og åpne. Det er ingen annen aktør i denne sjangeren på markedet, så her er det store muligheter "
+                    },
+                    {
+                        "text": "-Lage egne merker innenfor våre salgsområder "
+                    },
+                    {
+                        "text": "-Selge til andre bedrifter i innland/utland "
+                    },
+                    {
+                        "text": "-Åpne opp fysiske butikker på nøye utvalgte steder "
+                    },
+                    {
+                        "text": "-Kutte ledd og ha best mulig kalkyle på produktene vi selger "
+                    },
+                    {
+                        "text": "-Ha konkurransedyktige priser på alle varer, og være den foretrukne aktøren for alle kunder som ser etter barne- og ungdomsprodukter"
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med selvskyldnerkausjon fra daglig leder Bente Høglid Hansen på opp til kr 250 000. Lånet er også sikret med 2. prioritets pant i varelageret på kr 250 000, bak Sparebanken Telemark sitt 1. prioritets pant på kr 250 000. Varelageret har en innpris verdi på kr 700 000 og en utpris verdi på cirka kr 3 mill."
+                    },
+                    {
+                        "headerText": "Risiko i forbindelse med Koronaviruset",
+                        "text": "Det har gått noen uker med en helt spesiell situasjon i Norge og en hel verden. Vi var spente på hvordan situasjonen ville utspille seg for oss. Men det viser seg naturlig nok at netthandel er høyst aktuelt i disse dager og salget har økt. Vi er derfor ikke påvirket av krisen nå, og det ser ikke ut til at vi vil bli påvirket av dette heller. En rekke av våre varer er bestillingsvarer som kunder synes det er verdt å vente på, og posten går som normalt med våre lagerførte varer. Vi jobber derfor på fremover for å oppnå økt vekst måned for måned, og 2020 lover veldig godt for oss."
+                    }
+                ],
+                "loanAmount": "250000",
+                "riskClass": "D",
+                "terms": {
+                    "numberOfInstallements": "18",
+                    "leadPrincipleFreeInstallments": "0",
+                    "interestPa": "10",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "10",
+                        "valueResult": "5",
+                        "equityRatio": "22",
+                        "year": "2019",
+                        "deptRatio": "4",
+                        "liquidityRatio": "2"
+                    },
+                    {
+                        "roeTotability": "-13",
+                        "valueResult": "-32",
+                        "equityRatio": "-2",
+                        "year": "2018",
+                        "deptRatio": "-45",
+                        "liquidityRatio": "6"
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/e45f21e9-8b04-4747-8815-7383c6e3c4e0",
+                "aboutTheLoanImage2": "/document/id/9ab2183a-ea0d-442c-b338-c093bd9e030b",
+                "loanCustomer": {
+                    "organistionNumber": "921 045 271",
+                    "businessName": "VILLAKIDS AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Kommentar til finansielle nøkkeltall",
+                            "text": "Villakids AS har investert overskudd og midler fra daglig leder i videre vekst siden oppstarten i 2018, det har gitt høy lønnsomhet. Nøkkeltallene bærer preg av at omsetning og resultat har kraftig vekst fra måned til måned. Månedlige inntekter vil ligge på rundt rekordhøye kr 500 000 i mars til tross korona-situasjonen. Bedriften har ambisjon om å ha så lav gjeld som mulig. I tillegg til dette lånet fra Monner har vi et langsiktig lån i Sparebanken Telemark på ca. kr 200 000 i tillegg til noe kortsiktig leverandørgjeld."
+                        },
+                        {
+                            "headerText": "Litt om oss",
+                            "text": "Villakids.no åpnet sine nettbaserte dører 28 september 2018. Selskapet ble startet av Bente Høglid Hansen og planleggingsfasen i forkant ble brukt møysommelig fra høsten 2017 til åpningen. "
+                        },
+                        {
+                            "text": "Butikken ble åpnet på grunnlag av en enorm interesse for design, idéutvikling, salg og produktutvikling innen barneinteriør, leker, utstyr og klær. Det var også helt tydelig et stort marked å ta av, og butikken er bygget opp for å være noe unikt som naturlig vil ta, samt få, sin plass basert på sin egenhet. "
+                        },
+                        {
+                            "text": "Lageret holder til i Fredrikstad og er 600 kvm stort, vi har 7-800 forskjellige varer som vi tilbyr i nettbutikken nå, og vi gleder oss stort til fremtiden og den spennende reisen med Villakids AS."
+                        },
+                        {
+                            "headerText": "Om nøkkelpersonene",
+                            "text": "Villakids AS blir nå drevet fremover av daglig leder Bente, markedssjef Kim Øvestad, økonomiansvarlig Marius Ruud, vi samarbeider også med Camilla Øvestad, samt har egen regnskapsfører. "
+                        },
+                        {
+                            "text": "Vi er tre personer som jobber med Villakids AS til enhver tid og det er eier og daglig leder Bente Høglid Hansen som gjør designarbeid, ideutvikling, varebestillinger og oppdaterer nettbutikken jevnlig samt planlegger strategi for videre vekst. Marius Ruud er økonomiansvarlig og drifter kundeservice. Kim Øvestad er markedsansvarlig og drifter kundeservice, styrer facebook samt planlegger strategi for videre vekst. Han vil også i nærmeste fremtid ha en andel av selskapets aksjer. I tillegg til Beate som tar seg av Instagram samt hjelp av Atlas media til SEO arbeid."
+                        },
+                        {
+                            "headerText": "Om produktet",
+                            "text": "Vi tilbyr produkter i sjangrene: barneinteriør, barnemøbler, utstyr, leker og litt klær. Villakids AS sin visjon er å tilby barneprodukter som gir denne spesielle og gode følelsen av barndomsmagi. Hos oss finner du et godt utvalg av vakre kvalitets kostymer, lekemat i tre, oppbevaring og diverse. "
+                        },
+                        {
+                            "text": "Vi ønsker å tenke nytt i form av konsept, varer og design - produktene hos oss skal være unike, flotte og gi en god følelse av barndomsmagi. "
+                        },
+                        {
+                            "text": "Det har blitt lagt ekstremt mye arbeid ned i design og vareplukking, målet er å tilby de varene som er fullstendig uimotståelige for kundene og vi ønsker å tilby varer innenfor de fleste stilene. Vi har fått gode tilbakemeldinger på brukervennligheten til nettbutikken og at det er oversiktlig og har et delikat utseende. Dette er noe vi kommer til å spille på videre samt videreføre inn i kategoriene. På vår Instagram profil har vi satset mye på design, kategorisering og stil. Vi ønsker at nettbutikken skal være i samme utforming som dette, og kundene elsker det. Vi tilbyr spennende produkter og sammensetningen av produktene er med på å gjøre butikken vår helt spesiell og vi gleder oss til å videreutvikle den ytterligere med design, produkter og markedsføringsvideoer."
+                        },
+                        {
+                            "headerText": "Markedsføring og salg",
+                            "text": "Vår markedsføringsplan er bred og per nå satser vi på disse områdene: merkevarebygging med sosiale medier med fokus på Instagram og Facebook, merkevarebygging hos House &amp; Garden, Vogue og Conde Nast. "
+                        },
+                        {
+                            "text": "Våre sosiale medier er utrolig viktig for oss og for vår merkevarebygging, design, nå ut til kunder og salg. Vi er perfeksjonistiske og veldig opptatt av hvordan butikken fremstår. Dette har vist seg å være et stort og riktig trekk og vi har økt vår følgerskare fra 0 – mange tusen følgere raskt. På 1,5 år har vi oppnådd et følgertall på Instagram på nærmere 20 000 følgere og nærmere 23 000 følgere på vår Facebook-side. Vi er veldig stolte over det vi har fått til i disse kanalene på så kort tid, og det er utrolig givende og spennende å bruke Facebook og Instagram kreativt for å generere salg og engasjement. Vi har populære konkurranser på våre sosiale medier som gir oss høy eksponering og økt følgertall, ved siden av samarbeid med enkelte influensere og bloggere. "
+                        },
+                        {
+                            "text": "Vi gjør også annonsering hos VG og Finn.no, betalt annonsering på Facebook og Instagram, Tradetracker.no, Daisycon.no, Kelkoo.no og Nettavisen. "
+                        },
+                        {
+                            "text": "Vi har gått fra en månedlig omsetning på kr 40 000 i mars 2019 til en månedlig omsetning på kr 430 000 i mars 2020."
+                        },
+                        {
+                            "headerText": "Våre kunder",
+                            "text": "Vi har et vidt spekter med kunder da vareutvalget vårt er variert og dekker de fleste kategorier innenfor barneprodukter. Vi har også ofte kampanjer og gode tilbud som gir oss et vidt publikum. Kundene våre er også opptatt av god kvalitet og unike produkter, dette føler vi oss sikre på at vi oppfyller."
+                        }
+                    ],
+                    "numberOfEmployee": "3",
+                    "CEO": "Bente Høglid Hansen",
+                    "businessWebsiteUrl": "https://www.villakids.no/?fbclid=IwAR0sCgA9NcLuNtxunRuq2nKgFiF5wqNOBlFDwovuuH2cM3Pnv83PeYCp-3Y",
+                    "mainImage": "/document/id/fcc7a2ce-f63b-4812-9883-1dcfda92e1dc",
+                    "businessImage1": "/document/id/b1a3a9ad-7485-4292-ac03-d3928790ca27",
+                    "businessFacebookUrl": "https://www.facebook.com/villakids.no",
+                    "businessImageText": "Fra venstre: Kim Øvestad, Bente Høglid Hansen og Marius Ruud",
+                    "legalBusinessName": "VILLAKIDS AS",
+                    "email": "bente@villakids.no"
+                }
+            },
+            "status": "FUNDING",
+            "id": "39620407-343a-4a28-85e3-d50c01bc11b0"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "frisoerkjede_i_vekst",
+            "loanAmount": 1500000,
+            "numberOfInvestors": 160,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 1500000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "50",
+                    "profitViewProsentage": "60",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "40",
+                    "liquidityRatio": "0,7",
+                    "solvencyRatio": "9",
+                    "profit": "7"
+                },
+                "purpose": "Hendrix Hair skal åpne 3 nye frisørsalonger samt videreutvikle egen frisørskole",
+                "securityDescription": "2. pri. pant i eiers leilighet",
+                "introductionText": "Hendrix Holding AS ble etablert i 2010, og er morselskapet til Hendrix Hair-frisørsalongene. Selskapet har 13 salonger i Oslo og omegn. Nå ønsker de å starte opp tre nye frisørsalonger samt utvikle en egen frisørskole for Hendrix Hair. Lånet er sikret med 2. prioritets pant i boligen til daglig leder/eier.",
+                "title": "Frisørkjede i vekst",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hva skal lånet brukes til?",
+                        "text": "Lånet på kr 1,5 mill. skal brukes til å finansiere oppstart og etablering av tre nye frisørsalonger samt utvikle en egen frisørskole for Hendrix Hair-konseptet. Hver salong vil koste ca. kr 300 000. Det resterende av lånet vil brukes til å utvikle vår frisørskole og som likviditetsbuffer til de nyeste avdelingene våre som ble opprettet i 2019. "
+                    },
+                    {
+                        "text": "Lånet har 2. prioritets pant i eier Hendrix Liam sin leilighet, som har en verdi på kr 12 mill. etter verdivurdering fra Krogsveen. "
+                    },
+                    {
+                        "headerText": "Veksten fremover",
+                        "text": "Siden 2010 har vi hatt en jevn vekst, i en 12 måneders-periode i 2018/2019 åpnet vi 7 nye frisørsalonger. Den nye avdelingen på Frogner gikk med et lite minus i forbindelse med oppstart av de andre salongene."
+                    },
+                    {
+                        "text": "Nå ønsker vi imidlertid å åpne ytterligere tre salonger, henholdsvis i Bergen, Trondheim og et tredje sted i Norge. Det tredje stedet blir sannsynligvis Ålesund. I tillegg videreutvikler vi vår frisørskole. "
+                    },
+                    {
+                        "headerText": "Om tjenesten/produktet",
+                        "text": "Frisørbransjen har hatt en jevn vekst de siste årene - og det finnes svært mange frisørsalonger med dyktige frisører i dag. Likevel slutter de fleste frisører i tidlig alder; gjennomsnittsalderen for frisører som slutter i bransjen er kun 28 år. Denne trenden gjør vi i Hendrix Hair noe med. Vi jobber steg for steg for å tilrettelegge for våre flinke medarbeidere. Bl.a. får mange ansatte mulighet til å bli leder for sin egen salong hver gang vi åpner en ny salong. Dette sikrer at nye salonger har riktig kompetanse fra start. I tillegg får lederne opplæring i økonomi og markedsføring. Dette gjør at de etterhvert kan få mindre arbeid på gulvet som reduserer fysisk belastning."
+                    },
+                    {
+                        "text": "Et annet tiltak for å få mer fornøyde medarbeidere er med vår frisørskole. På denne skolen får erfarne frisører undervise. Disse sitter med kunnskap som vi i Hendrix Hair mener er verdifull for kommende frisører. Frisørskolen vil også bidra til å bevare frisøryrket og dets fag."
+                    },
+                    {
+                        "text": "Frisørskolen vår skal fungere som et rekrutteringsverktøy for å supplere oss selv med bemanning. Ved å gi frisører opplæring ved denne skolen, kan vi forme dem slik vi ønsker, og spare tid på dette. Denne skolen skal utfordre de andre i bransjen, da vi mener det er behov for modernisering. Dette er en kreativ bransje som har behov for stadig fornyelse. "
+                    },
+                    {
+                        "text": "Skolen varer 5 måneder, og man kan få tilbakebetalt skolepengene ved gjennomført opplæring. Dette er et unikt tilbud, og samtidig økonomisk lønnsomt for oss. "
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med sidestilt 2. prioritets pant på kr 1,5 mill. i boligen til eier av Hendrix Holding AS, Liam Hendrix. Pantet har prioritet etter DNB Boligkreditt AS sitt pant på kr 9,5 mill. Boligens verdi er vurdert til mellom kr 12 mill. og kr 13 mill. av Eiendomsmegler Krogsveen AS, se verdi rapport under Dokumenter."
+                    }
+                ],
+                "loanAmount": "1500000",
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "36",
+                    "leadPrincipleFreeInstallments": "0",
+                    "interestPa": "8.3",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "9",
+                        "valueResult": "5",
+                        "equityRatio": "9",
+                        "year": "2019",
+                        "deptRatio": "10",
+                        "liquidityRatio": "0,7"
+                    },
+                    {
+                        "roeTotability": "-2",
+                        "valueResult": "-5",
+                        "equityRatio": "2",
+                        "year": "2018",
+                        "deptRatio": "53",
+                        "liquidityRatio": "0,9"
+                    },
+                    {
+                        "roeTotability": "8",
+                        "valueResult": "9",
+                        "equityRatio": "7",
+                        "year": "2017",
+                        "deptRatio": "12",
+                        "liquidityRatio": "1,8"
+                    }
+                ],
+                "aboutTheLoanImageText": "Kampanjebildene er fra Hendrix Hair Torggata. Hovedbildet er fra @hairbydramdal på Instragram.",
+                "aboutTheLoanImage1": "/document/id/d57dfa4f-e16c-447f-891a-4ff7858e338e",
+                "aboutTheLoanImage2": "/document/id/ae563e4c-57de-43f3-9ef2-400f8b335316",
+                "loanCustomer": {
+                    "organistionNumber": "915 487 041",
+                    "businessName": "HENDRIX HOLDING AS",
+                    "aboutTheBusiness": [
+                        {
+                            "text": "Hendrix Holding AS er morselskapet i Hendrix Hair-konseptet, som ble etablert i 2010. Vi har 13 frisørsalonger, der de fleste ligger i Oslo. "
+                        },
+                        {
+                            "text": "Vi har også 1 hudpleiesalong, eget hair-extensionsmerke, samt egen enhet for lokal produksjon i distribusjonsnettet, for salongene. "
+                        },
+                        {
+                            "headerText": "Menneskene bak",
+                            "text": "Hendrix Liam er eier og grunnlegger bak Hendrix Hair. Han har bachelor i økonomi og forretningsjus, og er selvlært innenfor markedsføring."
+                        },
+                        {
+                            "text": "På teamet er også Sara Collberg, som er medeier og konsernsjef i selskapet. Hun har bachelor i økonomi og markedsføring. "
+                        },
+                        {
+                            "text": "Sandra E. Larsen er markedsføringsansvarlig, og Eline Spilde er ansvarlig for Hendrix Hair UtdanningsBase, som er vår frisørskole."
+                        },
+                        {
+                            "text": "Vi har over 70 frisører og terapeuter fordelt på våre 14 avdelinger."
+                        },
+                        {
+                            "text": "Salongenes daglige ledere har selv ansvaret for økonomi og markedsføring for sin egen salong. Dette fungerer som en bra overgang fra å jobbe på gulvet, da det er mindre belastende og en større utfordring. I tillegg utvikler vi også karriereplaner sammen med de ansatte. "
+                        },
+                        {
+                            "headerText": "Markedsføring",
+                            "text": "Siden oppstart har vi hatt fokus på å ha tydelig tilstedeværelse på sosiale medier, og har hatt samarbeid med både bloggere og influensere. På denne måten har vi markert og etablert vår unike posisjon i markedet. Denne markedsføringen har gitt oss god synlighet blant influensere, som igjen har gitt oss synlighet ut mot potensielle kunder."
+                        },
+                        {
+                            "headerText": "Våre kunder",
+                            "text": "Vår målgruppe er unge urbane kvinner, deriblant mange studenter og kvinner som er i starten av sine karrierer. "
+                        }
+                    ],
+                    "numberOfEmployee": "",
+                    "CEO": "Hendrix Melendez Liam",
+                    "businessWebsiteUrl": "https://www.hendrix.no/",
+                    "mainImage": "/document/id/3bd4c122-f3d6-4890-b72c-6df4c90109c6",
+                    "businessImage1": "/document/id/2af1b833-54e3-45f7-9102-180fe1279362",
+                    "businessFacebookUrl": "https://www.facebook.com/HendrixHairFrisorer/?__tn__=%2Cd%3C-R&amp;eid=ARCslW87ZTbCP0tHGRAPkzjFqfAY4L77HGLV5sycYwPiNcynoNvI0XUSsOYK1glgqR3WfMH7EQ0mMKQm",
+                    "businessImageText": "Hendrix Liam er gründer og daglig leder av Hendrix Hair.",
+                    "legalBusinessName": "HENDRIX HOLDING AS",
+                    "email": "holding@hendrix.no"
+                }
+            },
+            "status": "SERVICING",
+            "id": "5a893e7d-5b6f-482c-9a33-035893f6fa44"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "brofinansiering_av_oppussingsprosjekt",
+            "loanAmount": 600000,
+            "numberOfInvestors": 54,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 600000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "71",
+                    "profitViewProsentage": "100",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "80",
+                    "liquidityRatio": "2,0",
+                    "solvencyRatio": "23",
+                    "profit": "20"
+                },
+                "purpose": "Fase 1: Oppussing av utleieboliger i Trondheim",
+                "introductionText": "TA-Eiendom AS ble etablert i 2018 og spesialiserer seg på utleieboliger i Trondheim. Nøkkelpersonen Viggo E. Amundsen er også sentral i AS-Eiendom AS som har hatt mange vellykkede kampanjer med Monner. Med dette lånet skal TA-Eiendom AS rehabilitere en enebolig på attraktive Jakobslia i Trondheim. Det stilles 2. prioritets pant på kr 0,6 mill. i eiendommen som har gårdsnummer 18 og bruksnummer 60 i Trondheim kommune.",
+                "securityDescription": "2.pri.pant i eiendommen",
+                "title": "Brofinansiering av oppussingsprosjekt",
+                "aboutTheLoan": [
+                    {
+                        "text": "TA-Eiendom AS skal bruke dette lånet til å rehabilitere en enebolig på attraktive Jakobslia i Trondheim. Selskapet skal etablere to leiligheter i kjelleren og rehabilitere hovedenheten. Begge leilighetene i kjeller blir på ca 50 kvm og har egen inngang, to soverom, bad og kjøkken/stue. Hovedenheten blir oppgradert med nytt kjøkken, nytt bad, alle gulv blir skiftet til moderne 1-stavs parkett og alle overflater blir malt i moderne farger. "
+                    },
+                    {
+                        "text": "Rehabiliteringen er allerede igangsatt og kalkulert kostnad er kr 1,5 mill. "
+                    },
+                    {
+                        "text": "Totalt vil vi låne kr 1,2 mill. til dette prosjektet via Monner fordelt på 2 lån. "
+                    },
+                    {
+                        "text": "Selskapet har inngått en bindende kjøpsavtale med overtakelse av boligen 01.06.2020. i perioden før overtakelse har selskapet fri tilgang til å rehabilitere boligen. Selskapet forventer å ha boligen ferdigstilt i løpet av mai 2020 i god tid før overtakelse. Ved overtakelse 01.06.2020 vil finansiering til huskjøpet og dette lånet finansieres via bank. Alle investorene vil få tilbakebetalt sin investering i forbindelse med refinansiering i bank. "
+                    },
+                    {
+                        "headerText": "Faser",
+                        "text": "Fase 1: Oppbygging av delevegger og lydhimlinger i kjeller for etablering av to leiligheter. Omlegging og etablering av nytt elektrisk anlegg, og av nye vann- og avløpsrør. Diverse omgjøring av delevegger i hovedenhet. Klart til maling og nye parkettgulv (dette lånet)"
+                    },
+                    {
+                        "text": "Fase 2: Ferdigstilles av alle overflater (maling, parkettgulv og baderom)"
+                    },
+                    {
+                        "headerText": "Om Nyheimsvegen 68A   ",
+                        "text": "Boligene ligger i et meget attraktivt boligstrøk på øvre Jakobsli i Trondheim. Boligen er på hele 360 kvm fordelt over 3 plan. Tidligere eier oppgraderte i 2019 boligen med etterisolering og drenering av grunnmur, nye vinduer, hele huset ble malt utvendig og det ble etablert to nye inngangsparti for utleie til kjeller. "
+                    },
+                    {
+                        "text": "Huset vil inneholde to utleieleiligheter med potensiell leieinntekt på ca 20 000 pr. mnd. I hovedenheten er det 4 store soverom, to bad, gjestetoalett, vaskerom, kjøkken to stuer og en loftstue. "
+                    },
+                    {
+                        "text": "Huset kjøpes for kr 5,94 mill. og rehabiliteres for kr 1,5 mill. total kostnad = kr 7,44 mill. Uavhengig megler har vurdert huset forsiktig til å kunne selges for kr 8,5 mill. En tilsvarende bolig i samme område, men med mindre areal ca 260 kvm, kun et utleieforhold og oppgradert for ca 10 år siden, lå nylig ut for salg, til en prisantydning på kr 8,89 mill. Denne boligen ble solgt for kr 9,8 mill."
+                    },
+                    {
+                        "text": "TA-Eiendom AS rehabiliterer ikke boligen for videresalg, men har planer om å leie ut boligen i 3 år før den eventuelt skal selges. "
+                    },
+                    {
+                        "text": "Estimerte leieinntekter per år er kr 0,55 mill."
+                    },
+                    {
+                        "headerText": "Sikkerhet ",
+                        "text": "Det stilles 2. prioritets pant på kr 0,6 mill. i eiendommen med gårdsnummer 18 og bruksnummer 60 i Trondheim kommune."
+                    }
+                ],
+                "loanAmount": "600000",
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "12",
+                    "leadPrincipleFreeInstallments": "11",
+                    "interestPa": "10",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "2",
+                        "valueResult": "58",
+                        "equityRatio": "23",
+                        "year": "2019",
+                        "deptRatio": "3",
+                        "liquidityRatio": "2,0"
+                    },
+                    {
+                        "roeTotability": "15",
+                        "valueResult": "21",
+                        "equityRatio": "36",
+                        "year": "2018",
+                        "deptRatio": "2",
+                        "liquidityRatio": "0,5"
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/7cdf316f-2af8-4dae-a3af-1783e91f7535",
+                "aboutTheLoanImage2": "/document/id/92a300e8-6b8b-44a9-875f-fa3423886aed",
+                "loanCustomer": {
+                    "organistionNumber": "921 189 990",
+                    "mainImage": "/document/id/d0d412f4-689b-45dc-ae4c-491e3019152b",
+                    "businessImage1": "/document/id/425a84ef-cc09-46c3-9f52-d9bb04f99475",
+                    "businessName": "TA-Eiendom AS",
+                    "businessImageText": "Viggo E. Amundsen",
+                    "legalBusinessName": "TA-Eiendom AS",
+                    "aboutTheBusiness": [
+                        {
+                            "text": "TA-Eiendom AS ble etablert i 2018 og selskapets forretningsidé er kjøp av eiendommer med potensiale for verdiøkning via rehabilitering primært for utleie. Selskapet er et heleid selskap av investeringsselskapet Pathfinder Invets AS som igjen eies av Viggo E Amundsen. Pathfinder Invest AS eier i tillegg 50% av eiendomsselskapet AS-Eiendom AS som har flere vellykkede lånekampanjer via Monner. TA-Eiendom AS har en innskutt aksjekapital på kr 930 000 og eier pr. i dag en leilighet for utleie på Persaunet i Trondheim. Seksapet har ingen ansatte."
+                        },
+                        {
+                            "headerText": "Kommentar til regnskap ",
+                            "text": "Regnskapet for 2019 viser en omsetning på kr 120 000., med et årsresultat på kr 15 000, inntektene stammer fra utleie av en leilighet på Persaunet i Trondheim (august-desember) Leiligheten leies ut for kr 20 000 pr. mnd. Egenkapitalen pr 31.12.2019 er på kr 957 000."
+                        },
+                        {
+                            "headerText": "Om menneskene bak ",
+                            "text": "Selskapet har ingen daglig leder, men styres av styret som i dag består av styreleder Ernst Amundsen og styremedlem Viggo E. Amundsen. Selskapet tegnes av styre i fellesskap. I løpet av Q1 2020 vil styrets leder gå av og erstattes med Tone R Hemmingby som i dag er ansatt som regnskapsfører i AS-Eiendom AS. Viggo E Amundsen har sitt daglige virke i AS-Eiendom AS og har bakgrunn fra økonomi, salg og ledelse. Han har de siste 7 årene jobbet i eiendomsbransjen. Hans hovedoppgave er å finne eiendommer som selskapet kan utvikle. "
+                        },
+                        {
+                            "text": "Viggo har tidligere vært eier og styremedlem i entreprenørkonsernet Loqent, som ble slått konkurs i 2017. På dette tidspunktet satt Viggo som styreleder i selskapet og Svein Magne (partner i AS-Eiendom AS) satt som styremedlem. Hovedårsaken til konkursen var at selskapet vokste for raskt. Selskapet hadde på det meste 50 ansatte. Entreprenørbransjen er krevende i denne størrelsen og da gjennomføringen av et større byggeprosjekt gikk galt, fikk selskapet utfordringer med likviditeten. I et forsøk på å rydde opp og få selskapet i balanse overtok Viggo og Svein Magne alle aksjene og ledelsen i selskapet. Svein Magne og Viggo tilførte ny egenkapital ved flere anledninger i form av økning i egenkapitalen og innlån av penger. "
+                        },
+                        {
+                            "text": "Mot slutten hadde ikke selskapet nok penger til både lønn og skattetrekk, men hadde pågående prosjekter og innbetalinger i sikte. Prosjektene ble levert, men kraftig forsinket og oppgjørene ble avkortet med døgnmulkt og andre mangler. Dette gjorde at det ikke ble nok penger til å innbetale skattetrekket fullt ut. Resultatet i dette ble at Viggo og Svein Magne, som utgjorde ledelsen ved konkurstidspunktet, ble politianmeldt for dette. På grunn av beløpets størrelse ble Viggo, som satt som styreleder under konkursen, i januar 2019 domfelt for dette forholdet. "
+                        },
+                        {
+                            "text": "Viggo har følgende kommentar til saken: \"Dette er en alvorlig sak og den har gitt meg mye læring. Den viktigste lærdommen er at man alltid skal ha tilstrekkelig likviditet og god nok soliditet i selskapet til å håndtere overraskelser. Ting går ikke alltid som planlagt. I selskapet som jeg leder i dag, AS-Eiendom AS, har vi derfor blant annet valgt å ikke gjennomføre byggeoppdragene selv, men å sette ut byggingen til en totalentreprenør, eller til delt entreprise samtidig som vi internt har kompetanse til å følge opp utviklingen i byggeprosjektene selv.\" "
+                        },
+                        {
+                            "headerText": "Risiko ",
+                            "text": "Selskapet har en meget forutsigbar drift, og det er ikke knyttet usikkerheter rundt kostnader som ikke er prosjektrelaterte kostnader. For å sikre forutsigbare kostnader i prosjektene gjennomfører selskapet alle sine prosjekter i form av delte entrepriser til faste priser, som er avtalt før prosjektene igangsettes. Det velges også utelukkende faste samarbeidspartnere som over tid har vist gode resultater både økonomisk og kvalitetsmessig. Selskapets mål er å utvikle 1-2 eiendommer per år. "
+                        },
+                        {
+                            "text": "For langsiktig finansiering samarbeider selskapet med SMN 1."
+                        }
+                    ],
+                    "CEO": ""
+                }
+            },
+            "status": "SERVICING",
+            "id": "d1c9004a-05d7-480f-a08b-a28ab9e2fe8f"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "siste_del_av_hytte_paa_snoesikre_lygna",
+            "loanAmount": 1200000,
+            "numberOfInvestors": 116,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 1200000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "70",
+                    "profitViewProsentage": "50",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "100",
+                    "liquidityRatio": "6,8",
+                    "solvencyRatio": "17",
+                    "profit": "6"
+                },
+                "purpose": "Fase 2: Betaling av hytte, transport og montering",
+                "introductionText": "Pro-Nor Utvikling AS er et selskap lokalisert på Sunnmøre. Selskapet spesialiserer seg på salg og oppføring av nøkkelferdige modulbygde hytteprosjekter basert på konseptet “Folkehytte”. På Lygnalia (cirka 1 time fra Oslo), har de inngått kontrakt om kjøp av tomt for oppføring av hytte. Konseptet deres innebærer at selskapet må forskuttere tomt og opparbeiding av grunn og betongarbeid, deretter produksjon frem til ferdig hytte. For å dekke kapitalbehov trenger de finansiering prosjekt for prosjekt. Selskapet har sikret seg en attraktiv tomt i Lygnalia og dette lånet skal finansiere fase 2 av hytteprosjektet; betaling av hytte samt transport og montering av hytten. Lånet er sikret med 1. prioritets pant i eiendommen.",
+                "securityDescription": "Sidestilt 1. pri. pant i eiendommen",
+                "title": "Siste del av hytte på snøsikre Lygna",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hva skal vi bruke lånet til?",
+                        "text": "Pro-Nor Utvikling AS har inngått en kontrakt på kjøp av en tomt på hytteområdet Lygnalia i Gran kommune, rundt 1 times kjøring fra Oslo. Sammen med megler har det blitt utarbeidet et nøkkelferdig produkt som har en salgspris på kr 2,9 mill. Finn-lenke til hytteprosjektet ligger ikke ute, men prosjektet skal selges av EiendomsMegler1 Hadeland."
+                    },
+                    {
+                        "text": "Dette lånet er det andre og siste lånet som vil finansiere dette hytteprosjektet via Monner. Lånet skal finansiere betaling av hytte og transport fra Ukraina, samt montering av hytta. Til sammen finansierer de to lånene 81% av byggekostnadene i Lygnalia hytte 1, og utgjør 66% av estimert markedspris."
+                    },
+                    {
+                        "text": "Hyttene som skal settes opp produseres på vår partners fabrikk i Ukraina, og fraktes til våre tomter i Norge med bil. Før hyttene sendes til oss blir de rundt 80% ferdigstilt. Det er dette fase 2 av prosjektet skal finansiere. Det pleier å ta rundt 6 måneder fra prosjektet startes opp, til hytten leveres på byggeplassen, der det ferdigstilles på 2 til 4 uker."
+                    },
+                    {
+                        "text": "For å dekke kapitalbehov trenger vi finansiering prosjekt for prosjekt. Lånet er sikret med 1. prioritets pant i eiendommen."
+                    },
+                    {
+                        "headerText": "Om lånekampanjene",
+                        "text": "Ny hytte i Lygnalia, i Gran Kommune. "
+                    },
+                    {
+                        "text": "Fase 1: kr 800 000 - Kjøp av tomt, grunnarbeid og ringmur/betongarbeid"
+                    },
+                    {
+                        "text": "Fase 2: kr 1,2 mill. - Betaling av hytte samt transport og montering (dette lånet)"
+                    },
+                    {
+                        "headerText": "Kort om Lygnalia",
+                        "text": "● Panoramautsikt mot Gaustatoppen, Norefjell, Vassfaret og Randsfjorden ● Alle fasiliteter tilrettelagt: Vei, vann, avløp, strøm, bredbånd ● Meget snøsikkert, 600-700 m.o.h. ● 220 km med flotte, maskinpreparerte skiløyper - gå til Oslo på ski om du vil ● Lygna Skisenter med snøproduksjonsanlegg for langrenn - arrangerte NM 2017 og tildelt NM langrenn del 2 mars 2019 ● Flott, nytt rulleskianlegg på Lygna Skisenter, åpnet august 2017 ● Kort vei til alpinsenter og badestrand ● Ny motorvei på riksvei 4 - kun én time fra Oslo ● \"Lyngasæter\" med hotell, kro, bensinstasjon ved innkjøring til hytteområdet ● Eventyrlig sykkelterreng - gode sykkelveier ● Meget barnevennlig - akebakke, gapahuk og lavvo til fri bruk i hyttefeltet ● Gode jakt- og fiskemuligheter ● Kanopadling i området"
+                    },
+                    {
+                        "headerText": "Om lånets sikkerhet",
+                        "text": "Lånet er sikret med sidestilt førsteprioritets pant i eiendommen med gårdsnummer 148 og bruksnummer 209 i Gran kommune."
+                    }
+                ],
+                "loanAmount": "1200000",
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "18",
+                    "leadPrincipleFreeInstallments": "17",
+                    "interestPa": "8.5",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "6",
+                        "valueResult": "9",
+                        "equityRatio": "11",
+                        "year": "2019",
+                        "deptRatio": "8",
+                        "liquidityRatio": "1,1"
+                    },
+                    {
+                        "roeTotability": "2",
+                        "valueResult": "4",
+                        "equityRatio": "7",
+                        "year": "2018",
+                        "deptRatio": "13",
+                        "liquidityRatio": "6,8"
+                    },
+                    {
+                        "roeTotability": "7",
+                        "valueResult": "35",
+                        "equityRatio": "17",
+                        "year": "2017",
+                        "deptRatio": "5",
+                        "liquidityRatio": "0,2"
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/6cddeb30-901a-44ff-8d11-291bccf0cd18",
+                "aboutTheLoanImage2": "/document/id/b951b627-78b1-4d71-8990-15e22481a469",
+                "loanCustomer": {
+                    "organistionNumber": "912 563 499",
+                    "mainImage": "/document/id/97a8b5e0-77c6-4ef9-8a25-e8b52b8ae7cd",
+                    "businessImage1": "/document/id/d88deb5f-3425-40e1-8ad5-523c67ebf749",
+                    "businessName": "PRO-NOR UTVIKLING AS",
+                    "businessImageText": "",
+                    "legalBusinessName": "PRO-NOR UTVIKLING AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Om bedriften",
+                            "text": "Pro-Nor Utvikling AS er lokalisert på Sunnmøre, og vi spesialiserer oss på salg og oppføring av nøkkelferdige modulbygde hytteprosjekter basert på konseptet “Folkehytte”. Pro-Nor Utvikling inngår i et konsern med 5 selskaper, og Pro-Nor Gruppen AS er morselskapet. "
+                        },
+                        {
+                            "text": "Produksjonen vår ligger på rundt 50 hus og hytter hvert år, og tidligere i år har vi blant annet levert 7 hytter på Nordseter i Lillehammer av samme type som skal leveres i Lygnalia. "
+                        },
+                        {
+                            "text": "Konseptet vårt innebærer altså at vi må forhåndsbetale tomt og produksjon frem til ferdig hytte. Hele prosessen fra grunnarbeid til ferdig hytte er det vi som står for. Den første innbetalingen fra kunden er ved overlevering av ferdig hytte, noe som medfører et økende finansieringsbehov ved ekspansjon. For å oppnå nødvendig kapital trenger vi finansiering prosjekt for prosjekt."
+                        },
+                        {
+                            "headerText": "Samarbeid med andre selskaper i gruppen",
+                            "text": "Vi samarbeider tett med andre selskaper i gruppen. Pro-Nor Nordic AS er et import-, salgs- og markedsføringsselskap for Sunnmørshytter og Folkehytter. Dette er en serie hytter basert på standardiserte og fabrikkproduserte elementer og moduler montert på byggeplass. "
+                        },
+                        {
+                            "text": "Pro-Nor Entreprenør AS er vår entreprenørvirksomhet med ansvar for montering og ferdigstillelse på norsk byggeplass. Selskapet har kvalifiserte bygge- og prosjektledere og dyktige håndverkere med lang erfaring med oppføring av hus og hytter. De er også ansvarlig utførende og ansvarlig prosjekterende i de enkelte byggeprosjekter i samsvar med §12.3 og §12.4 i Byggesaksforskriften. "
+                        },
+                        {
+                            "text": "Pro-Nor Baltics OÜ er vårt servicekontor for arkitektonisk design, prosjektering, produksjonsstyring og logistikk. I tillegg er de ansvarlige for planlegging og kontroll av vår produksjon av ferdige moduler og elementer. "
+                        },
+                        {
+                            "text": "Pro-Nor Production er vår produksjon av fabrikkbygde moduler og elementer for hytter og hus i Ukraina."
+                        },
+                        {
+                            "headerText": "Menneskene bak",
+                            "text": "Per Kristian Langlo og Jan Peter Lannerholm er ledere av Pro-Nor Utvikling AS, og begge er ansatt i Pro-Nordic AS."
+                        },
+                        {
+                            "text": "Per Kristian (63) er daglig leder i morselskapet Pro-Nor Gruppen AS og styreformann i datterselskapene. Han er utdannet revisor, har tilleggsutdanning innen ledelse og finans, og har til sammen 36 års erfaring innenfor jobber som banksjef, økonomisjef og administrerende direktør."
+                        },
+                        {
+                            "text": "Jan Peter (61) Lannerholm er eier av Pro-Nor Gruppen AS og er daglig leder i driftsselskapene. Han har utdanning fra Norges Varehandelshøyskole, som i dag er en del av BI. Han har lang næringslivserfaring og har blant annet jobbet som daglig leder (og eier) i ulike selskaper innen handel og entreprenørvirksomhet. I tillegg har han også lang erfaring innen bygging av modulbygde hus/hytter, og gjennomførte sitt første modulbygde prosjekt med bygging av 20 leiligheter allerede i 2001."
+                        }
+                    ],
+                    "CEO": "Jan Peter Lannerholm",
+                    "businessWebsiteUrl": "https://www.folkehytte.no/"
+                }
+            },
+            "status": "SERVICING",
+            "id": "0514603c-1707-4c6e-b680-116ef8726480"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "utvidelse_av_solhovda",
+            "loanAmount": 2000000,
+            "numberOfInvestors": 147,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 2000000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "50",
+                    "profitViewProsentage": "95",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "100",
+                    "liquidityRatio": "14,4",
+                    "solvencyRatio": "7",
+                    "profit": "17"
+                },
+                "purpose": "Oppgradering og utvidelse av hytte",
+                "introductionText": "Geilo-baserte MG Eiendomsutvikling AS ble etablert i 2015 og spesialiserer seg på arkitekttegnede moderne laftede fjellhytter av solid kvalitet. Selskapet bygger på romslige tomter med god beliggenhet. Dette lånet skal brukes til å finansiere utvidelsen av eiendomsprosjektet Solhovda på Geilo. Det har blitt lagt til bl.a kjeller med dobbelgarasje, stor innredet skibod, garderobe, stor peisestue, to soverom, bad og badstue fra den opprinnelige planen. Dette verdiøker hytten, men krever ytterligere kapital, derfor trenger MG Eiendomsutvikling AS dette lånet for å komme i mål. Dette lånet vil blir sikret med 2. pri. pant i eiendommen. Lånet er avdragsfritt i hele låneperioden og hele lånebeløpet forfaller til betaling på siste termin, eller ved salget av hytten.",
+                "securityDescription": "2. pri. pant. i eiendommen",
+                "title": "Utvidelse av Solhovda",
+                "loanAmount": "2000000",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hva skal vi bruke lånet til?",
+                        "text": "Totalt har MG Eiendomsutvikling AS lånt kr 9,1 mill., fordelt på 4 lån til hytteprosjektet Solhovda på populære Geilo. Det jobbes nå med innvendige arbeider og ferdigstillelse av hytta. Dette lånet går til ytterligere finansiering av eiendomsprosjektet på Geilo. Vi har lagt til over 100 kvm. på hytta og i den sammenheng har vi valgt å gjøre en rekke oppgraderinger innvendig, som fører med seg større utgifter. "
+                    },
+                    {
+                        "text": "MG Eiendomsutvikling AS ønsker derfor å låne ytterligere kr 2 mill. via Monner, slik at vi totalt ender på kr 11,1 mill. i lån hos Monner. Vi benytter oss av den faste eiendomsmegleren, Christian Haatuft, som også er Geilos største eiendomsmegler, som har vurdert prisen på den ferdige hytta til kr 17,5 mill."
+                    },
+                    {
+                        "headerText": "Oppgraderinger som skal gjennomføres",
+                        "text": "I starten av prosjektet prosjekterte vi en hytte som etter meglers mening skulle legges ut for kr 12 mill. Senere har vi gjort endringer i areal og lagt til over 100 kvm., til blant annet kjeller med dobbelgarasje, stor innredet skibod, garderobe, stor peisestue, to soverom, bad og badstue. "
+                    },
+                    {
+                        "text": "Vi har også oppgradert kvaliteten ytterligere, ved bruk av Aparta som designere for hele konseptet, inkludert gjeldende farger, fliser og møbler. Nye kombinasjoner med tømmer og metalldetaljer i innredningen. En del av oppgraderingen er at vi benytter Miele-produkter til hele hytta, Os Trekultur-kjøkken, sonefri platetopp, doble stekeovner med både micro og damp. Vi skal også sette inn flere peiser, smijernsvegger samt fører i kjellerdelen av hytta - noe som for tiden er svært populært - pluss en rekke små detaljer som interiørarkitekten har foreslått."
+                    },
+                    {
+                        "text": "Hytta ender opp med en størrelse på 357 kvm. til en kvadratmeterpris på ca. kr 50 000 per kvm. Dette, og høyere, er en pris som ofte oppnås her på Geilo for hytter i denne kvaliteten som vi leverer. "
+                    },
+                    {
+                        "text": "Som bildene viser bygger vi kvalitetshytter for et kresent marked (se lenke til finn-annonse i Om bedriften og Salgsoppgave i Dokumentasjon). Bruks- og gårdsnummer på eiendommen er gnr/bnr 66/872 i Hol kommune. "
+                    },
+                    {
+                        "text": "Resultatet av eiendomsprosjektet Solhovda vil bli en av flere av eiendomsselskapet sine eksklusive hytter i laft og stavlaft. Tomten har strålende utsikt og er en av de beste gjenværende tomtene i dette svært populære området. "
+                    },
+                    {
+                        "text": "Vi utvikler prosjektet og lar arkitekten tegne en hytte tilpasset reguleringsplanen som vi kjenner godt. Så plasserer vi hytten fint på tomten for deretter å søke om byggetillatelse. Prosjektet vil ha ferdigstillelse til sommeren 2020."
+                    },
+                    {
+                        "text": "Kostnadsrammen i et slikt prosjekt eks. tomt og grunnarbeider er estimert til kr 6 mill."
+                    },
+                    {
+                        "text": "Prosjektet ble utviklet i 4 faser med finansiering gjennom Monner og nå et ytterligere 5. lån. Selskapet går inn med kr 700 000 i egenkapital og det er tenkt at eventuelle overskridelser skal bli dekket av morselskapet, MG Bygg og Anlegg AS."
+                    },
+                    {
+                        "text": "Fase 1: Kjøp av tomt (denne fasen refinansieres med dette lånet) "
+                    },
+                    {
+                        "text": "Fase 2: Ferdigstillelse av tomt og produksjon av hytte "
+                    },
+                    {
+                        "text": "Fase 3: Gjennomføring av hytte "
+                    },
+                    {
+                        "text": "Fase 4: Innvendige arbeider og ferdigstillelse "
+                    },
+                    {
+                        "text": "Fase 5: Oppgradering av innvendige arbeider og ferdigstillelse (stadiet vi er inne i nå)"
+                    },
+                    {
+                        "headerText": "Fremdrift siden forrige lån",
+                        "text": "Infrastruktur er ferdig med støpt kjeller og plate, hytta er ferdig produsert. Innredning produseres og parkett, listverk, vinduer, dører, etc. er enten kjøpt eller er i produksjon. Montering av hytta begynner i løpet av februar og er ferdig til sommeren."
+                    },
+                    {
+                        "headerText": "Salg",
+                        "text": "Hytten selges av Christian Haatuft og Anette Veslehaug fra EiendomsMegler1 og annonsen ble lagt ut på finn.no i midten av februar. Finn-kode: 171103858. Mottakelsen i markedet har vært god og meglerne har allerede mottatt interesse fra kjøpere."
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med 2. pri. pant på kr 2,0 mill. bak de andre Monner-lånene som har førsteprioritets pant i eiendommen på totalt kr 9,1 mill. Bruks- og gårdsnummer på eiendommen er gnr/bnr 66/872 i Hol kommune."
+                    }
+                ],
+                "riskClass": "B",
+                "terms": {
+                    "numberOfInstallements": "12",
+                    "leadPrincipleFreeInstallments": "11",
+                    "interestPa": "8.5",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "14",
+                        "valueResult": "14",
+                        "equityRatio": "11",
+                        "year": "2019",
+                        "deptRatio": "8",
+                        "liquidityRatio": "90,8"
+                    },
+                    {
+                        "roeTotability": "16",
+                        "valueResult": "23",
+                        "equityRatio": "4",
+                        "year": "2018",
+                        "deptRatio": "22",
+                        "liquidityRatio": "14,4"
+                    },
+                    {
+                        "roeTotability": "15",
+                        "valueResult": "10",
+                        "equityRatio": "7",
+                        "year": "2017",
+                        "deptRatio": "14",
+                        "liquidityRatio": "4,9"
+                    },
+                    {
+                        "roeTotability": "",
+                        "valueResult": "",
+                        "equityRatio": "\n",
+                        "year": "2016",
+                        "deptRatio": "",
+                        "liquidityRatio": ""
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/35657df4-dabb-49cd-aaca-f6b3e5148618",
+                "aboutTheLoanImage2": "/document/id/90383b81-ea24-4b20-a672-27c5f1682570",
+                "loanCustomer": {
+                    "organistionNumber": "914 934 427",
+                    "mainImage": "/document/id/0e1dabbb-ac58-49a8-a7c5-8a2fa0f1d3a2",
+                    "businessImage1": "/document/id/b14d489d-223c-4910-809c-30066857171d",
+                    "businessFacebookUrl": "https://www.facebook.com/MG-Eiendomsutvikling-As-1665641906870479/",
+                    "businessName": "MG Eiendomsutvikling AS",
+                    "legalBusinessName": "MG Eiendomsutvikling AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Litt om regnskapet for 2019",
+                            "text": "Ikke-reviderte regnskapstall t.o.m. 29.10.2019 ligger under Dokumentasjon. Vi er et eiendomsselskap som kun kjøper tomter og selger hytter. Vi har ingen andre varekjøp. Vi har cirka 50 bilag i året, flesteparten fra morselskapet MG Bygg og Anlegg AS, resten er offentlige avgifter."
+                        },
+                        {
+                            "headerText": "Litt om bedriften",
+                            "text": "MG Eiendomsutvikling AS ble etablert i 2015 samtidig med MG Bygg og Anlegg AS. MG Eiendomsutvikling AS utvikler og selger hyttene som bygges av entreprenørselskapet MG Bygg og Anlegg AS. Konsernet har i løpet av de siste årene utviklet og bygget 12 kvalitetshytter i laft, på Geilo. "
+                        },
+                        {
+                            "text": "Nøkkelen til MG Eiendomsutvikling AS sin suksess er høy kvalitet i alle ledd, samtidig som vi har god kontroll over kostnadene. Selv om prosessene vi bruker, krever litt mer arbeid og tid enn vanlig, opplever vi at markedet verdsetter vår kvalitet. Dette vises ved at de aller fleste hyttene våre selges før de står ferdigstilt. Eiendomsmegler1 ved Christian Haatuft på Geilo selger alle våre prosjekter. I løpet av de tre første årene har vi bygget og solgt hytter for over kr 40 mill."
+                        },
+                        {
+                            "headerText": "Om menneskene bak",
+                            "text": "Stein Martin Gaarder og Terje Hugo Vanay står bak MG Eiendomsutvikling AS. Stein Martin er daglig leder og eier av selskapet, og har over 20 års erfaring og bygget over 40 kvalitetshytter. Terje har økonomibakgrunn, har svært mye kunnskap i dette området, og har tidligere både bygget og solgt flere hytter på Geilo."
+                        },
+                        {
+                            "headerText": "Om utvikling av våre hytteprosjekter",
+                            "text": "Første fase i våre hytteprosjekt er å ha finansieringen i orden. De siste årene har vi hatt svært gode erfaringer med å benytte oss av Monner for å crowdfunde finansieringen av prosjektene våre. Gjennom dette samarbeidet får vi både finansiering til prosjektene våre og også profilert hvert enkelt prosjekt til potensielle hyttekjøpere. Vi setter også stor pris på den gode dialogen vi har med investorene i prosjektene våre som vi mener bidrar til selskapets utvikling. "
+                        },
+                        {
+                            "text": "Neste fase er å finne passende hyttetomter, starter prosjektering, velger hyttemodeller, og bestemmer elementer i prosessen. "
+                        },
+                        {
+                            "text": "Vår egen arkitekt tegner og utvikler nye hyttemodeller i samsvar med aktuelle reguleringsplaner. Tegningene oversendes til en fabrikk som bruker omtrent 3 måneder til å håndlafte hytta før de sendes til oss, og vi bruker 3 dager på montasje på ferdigstøpt plate."
+                        },
+                        {
+                            "text": "Neste steg er å legge tak og membran, før vinduer settes inn, og vi kan begynne på arbeidet innvendig. "
+                        },
+                        {
+                            "text": "Våre hytter får torvtak med samme uttrykk som naturen i området, og inneholder ofte gruepeis forblendet med tørrmur, bred eikeparkett på gulvene, flislagt baderomsgulv, plasstilpasset kjøkken i heltre, samt skap i nødvendige rom. "
+                        },
+                        {
+                            "text": "Flesteparten av våre hytter blir energieffektivt og miljøvennlig varmet opp via vannbåren gulvvarme med varmepumpe og energihull som borres ned til 200 meters dyp. "
+                        },
+                        {
+                            "text": "Anerkjente interiørarkitekter hjelper oss med å skape hytter med de farger og interiør som markedet forventer, som også samsvarer med prisklassen hyttene selges for. "
+                        },
+                        {
+                            "text": "I sluttfasen legges hyttene ut på markedet gjennom Eiendomsmegler1 på Geilo ved Christian Haatuft som er erfaren fra området i øvre Hallingdal og spesielt Geilo."
+                        },
+                        {
+                            "headerText": "Markedsutvikling av hyttemarkedet på Geilo",
+                            "text": "I 2018 ble det solgt hytter, tomt og hus for kr 1 milliard på vårt hovedmarked som er på Geilo. Eiendomsmegler1 v/ Christian Haatuft hadde alene en omsetning på kr 500 mill. i 2018, i påskedagene omsatte de for kr 40 mill. Hytteetterspørselen fortsatte inn i 2019, og vi ser lyst på fremtiden. Mange av våre kunder kjøper hytter i den øvre prisklassen, der en vesentlig del av kjøpesummen også er egenkapital. De høye tomteprisene på Geilo er en utfordring, men tomter i utkanten av Geilo er som regel rimeligere og vi får mulighet til å bygge hytter for en annen del av markedet."
+                        },
+                        {
+                            "headerText": "Salg av tidligere prosjekter",
+                            "text": "Tre av prosjektene, Blomset 1/2/3, er nå ferdigstilt og solgt til en pris i henhold til prisforventningene. "
+                        },
+                        {
+                            "text": "De to øvrige hytteprosjektene som nå finansieres gjennom lån hos Monner er forventet ferdigstilt og solgt i løpet av 1.halvår 2020. (Se oversikt under Dokumentasjon)."
+                        },
+                        {
+                            "headerText": "Fremtiden for MG Eiendomsutvikling AS",
+                            "text": "MG Eiendomsutvikling AS har siden start hatt en langsiktig plan om å utvikle oss på en trygg måte. Vårt mål er å bygge egenkapital år for år. Dette har vi greid med jevn økning av omsetning både i 2018 og 2019. Gjennom Monner ser vi at vi har fått større mulighet til å gå inn i de prosjektene vi har tro på."
+                        }
+                    ],
+                    "numberOfEmployee": "1",
+                    "CEO": "Stein Martin Gaarder",
+                    "businessWebsiteUrl": "https://www.finn.no/realestate/leisuresale/ad.html?finnkode=171103858"
+                }
+            },
+            "status": "SERVICING",
+            "id": "dccc76b7-42a7-4bfb-bb15-2661e06aa0e1"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "teknologiselskap_vokser_i_europa",
+            "loanAmount": 1000000,
+            "numberOfInvestors": 142,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 1000000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "profitViewColour": "3",
+                    "solvencyRatioViewColour": "3",
+                    "solvencyRatioViewProsentage": "25",
+                    "profitViewProsentage": "20",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "48",
+                    "liquidityRatio": "0,9",
+                    "solvencyRatio": "2",
+                    "profit": "-1"
+                },
+                "insurance": "",
+                "purpose": "Etablering av salgskontor i Nederland\n",
+                "introductionText": "Servebolt ble etablert i 2013 og spesialiserer seg på å levere rask internett-hosting for CMS- og netthandel-løsninger som WordPress, WooCommerce og Magento. Denne satsingen er basert på egenutviklede datasentre plassert i Amsterdam, Johannesburg, New York, Oslo og Singapore. Nå skal de etablere et salgskontor i Nederland for å håndtere den økende interessen for Servebolt i det europeiske markedet. Denne satsningen skal finansieres via dette lånet. Servebolt AS har tidligere finansiert et lån via Monner - og har betjent lånet i henhold til betingelsene. Lånet er usikret.",
+                "securityDescription": "Usikret",
+                "title": "Teknologiselskap vokser i Europa",
+                "aboutTheLoan": [
+                    {
+                        "text": "Formålet med dette lånet, er å delfinansiere etableringen av et salgskontor i Nederland for å håndtere den økende interessen for Servebolt i det europeiske markedet. Det er nå riktig tidspunkt for oss å etablere fysisk tilstedeværelse med en salgsorganisasjon sentralt i Europa. "
+                    },
+                    {
+                        "text": "En salgsorganisasjon sentralt i Europa vil bidra sterkt til videre vekst, spesielt med tanke på at Servebolt i dag ikke har noen salgsorganisasjon til tross for den høye veksten."
+                    },
+                    {
+                        "headerText": "Om satsningen",
+                        "text": "Vi har jobbet med å rekruttere de riktige menneskene, blant annet Remkus de Vries som Servebolt lenge har ønsket å ansette. Nå er timingen riktig for begge parter. Remkus har riktig erfaring og kompetanse kombinert med et stort nettverk. Hans rolle blir Head of Partner and Customer Relationships og vil bli den mest sentrale nyansettelsen for Servebolts kontor i Amsterdam. "
+                    },
+                    {
+                        "text": "\"After seeing Servebolt results in Review Signal 2019, I had to give the platform a test. I quickly discovered that Servebolt is the only company in the WordPress hosting space that has a truly superior hosting product and actually is substantially faster. This made me a huge fan of the product. And as I have gotten to know the team behind it, I got even more excited about the company itself!"
+                    },
+                    {
+                        "text": "I was thrilled to learn I had an opportunity to join the Servebolt team and help them move the fastest WordPress hosting company of the planet forward.\" – Remkus de Vries"
+                    },
+                    {
+                        "headerText": "Om veksten",
+                        "text": "Siden forrige lånekampanje har Servebolt markert seg sterkt internasjonalt ved å levere enestående resultater i den største uavhengige internasjonale testing av hosting-produkter, Review Signal."
+                    },
+                    {
+                        "text": "Når vi ser tilbake på budsjettene som ble lagt frem ved forrige lånekampanje på Monner mot resultatene vi har oppnådd, så mener vi det er så nærme det går an å komme. I tillegg til å nå budsjetterte resultater og vekst har Servebolt siden den gang gjort flere større grep for å sikre videre vekst. Blant annet er et nytt system for fakturering og automatisert betaling implementert, og det gjør det mulig for kundene å administrere alt de får levert av Servebolt på egenhånd. Dette prosjektet alene bidro til en betydelig økning i gjentakende inntekter, og gjør det mulig for Servebolt å lansere nye produkter og tjenester raskere enn før. I tillegg har det blitt flere nye ansettelser, både på salg og utvikling."
+                    },
+                    {
+                        "text": "Selskapet har alltid investert alt overskudd i videre vekst og har hele tiden valgt å vokse i det tempoet som lommeboken tillater, med unntak av et lån med Monner Nov-2018. 15 av 24 terminer av det første lånet via Monner har blitt tilbakebetalt som planlagt uten betalingsutsettelser eller avdragsfrihet. "
+                    },
+                    {
+                        "text": "Vi er stolte av året vi har lagt bak oss. Les mer om hva vi gjorde i 2019 og hvordan vi har brukt vårt forrige Monner-lån til å vokse på lenken \"Nettside\" under Om Bedriften. "
+                    }
+                ],
+                "loanAmount": "1000000",
+                "riskClass": "D",
+                "terms": {
+                    "numberOfInstallements": "18",
+                    "leadPrincipleFreeInstallments": "0",
+                    "interestPa": "10.5",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "2",
+                        "valueResult": "1",
+                        "equityRatio": "2",
+                        "year": "2019",
+                        "deptRatio": "51",
+                        "liquidityRatio": "0.9"
+                    },
+                    {
+                        "roeTotability": "-6",
+                        "valueResult": "-4",
+                        "equityRatio": "5",
+                        "year": "2018",
+                        "deptRatio": "21",
+                        "liquidityRatio": "1,7"
+                    },
+                    {
+                        "roeTotability": "3",
+                        "valueResult": "1",
+                        "equityRatio": "14",
+                        "year": "2017",
+                        "deptRatio": "6",
+                        "liquidityRatio": "1,1"
+                    }
+                ],
+                "aboutTheLoanImageText": "",
+                "aboutTheLoanImage1": "/document/id/e080e06a-f44d-4730-9bdd-45132847348e",
+                "aboutTheLoanImage2": "/document/id/49813070-0c88-440e-a177-a5af09aea459",
+                "loanCustomer": {
+                    "organistionNumber": "914 823 900",
+                    "mainImage": "/document/id/c2f1f8e6-23f9-4b1b-a2c9-6c28524fbdfa",
+                    "businessImage1": "/document/id/70886fcf-9be5-45c2-b810-8d54a6a15ee8",
+                    "businessFacebookUrl": "https://www.facebook.com/Servebolt/",
+                    "businessName": "SERVEBOLT AS",
+                    "legalBusinessName": "Servebolt AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Kommentar til finansielle nøkkeltall",
+                            "text": "Vi er stolte av året vi har lagt bak oss og har skrevet en \"Year in Review\" som du har se ve å trykke lenken \"Nettside\" lenger opp på siden. Her kan du lese mer om hva vi har gjort siden sist med lånet vi tok opp med Monner i 2018. Når selskapet nå "
+                        },
+                        {
+                            "text": "ser tilbake på budsjettene som ble lagt frem ved forrige lånekampanje mot resultatene de har oppnådd, så mener de det er så nærme det går an å komme. I tillegg til å nå budsjetterte resultater og vekst har Servebolt siden den gang gjort flere større grep for å sikre videre vekst, disse kan du lese mer om under Om Lånet. Disse grepene har bidratt til en betydelig økning i gjentakende inntekter, og gjør det mulig for Servebolt å lansere nye produkter og tjenester raskere enn før."
+                        },
+                        {
+                            "text": "I tillegg har det blitt flere nye ansettelser, både på salg og utvikling."
+                        },
+                        {
+                            "headerText": "Om bedriften",
+                            "text": "Servebolt ble etablert i 2013 og spesialiserer seg på å levere verdens raskeste internett-hosting for CMS- og netthandel-løsninger som WordPress, WooCommerce og Magento. Denne satsingen er basert på egenutviklede datasentre plassert i Amsterdam, Johannesburg, New York, Oslo og Singapore. "
+                        },
+                        {
+                            "text": "Servebolt som konsept ble etablert i 2013 under navnet Raske Sider, og har vært fokusert på å levere raskere hosting for WordPress og Magento enn det noen andre konkurrenter klarer. I 2014 ble RaskeSider AS stiftet, og lansert offentlig. Da selskapet i 2017 lanserte internasjonalt, og byttet navn til Servebolt, begynte veksten for fullt. Servebolt har nå servere i 5 land, på 4 kontinenter. Grunnlaget for Servebolts vekst ligger i den unike tekniske plattformen de selv utvikler, som gir dem et fortrinn mot de store internasjonale konkurrentene. Ved forrige Monner-kampanje var 25% av inntektene fra utenfor Norge. Utenlandske markeder vokser raskere enn det norske, og står nå for over 40% av selskapets omsetning. Kundene kommer nå fra land i hele verden og det er hovedsakelig tre typer kunder:"
+                        },
+                        {
+                            "text": "1. Byråkunder (web-, e-commerce-, reklame- og informasjon-byråer)"
+                        },
+                        {
+                            "text": "2. Direktekunder (via nettside, stor andel nettbutikker på Magento og WooCommerce)"
+                        },
+                        {
+                            "text": "3. Corporate kunder - store konserner med porteføljer av nettsider/nettbutikker"
+                        },
+                        {
+                            "text": "Servebolt etablerer nye partnerskap ukentlig, og får nye kunder flere ganger i uken."
+                        },
+                        {
+                            "headerText": "Folkene bak",
+                            "text": "Hans Kristian Rosbach og Erlend Eide etablerte sammen “Raske Sider AS” med visjonen om at hosting av E-commerce og moderne webløsninger kunne gjøres raskere og bedre. Det har vist seg å treffe markedet svært godt, og de underliggende trendene i markedet har gjort denne satsingen stadig mer attraktiv."
+                        },
+                        {
+                            "text": "Servebolt har nå etablert den sentrale leder-organisasjonen og fått på plass alle viktige kjerneroller. Jobben videre med ansettelser vil nå hovedsakelig handle om å skalere de ulike rollene med flere mennesker for å håndtere den voksende etterspørselen, og kunne arbeide med blant annet support og salg i alle tidssoner."
+                        },
+                        {
+                            "text": "Ledelsen i Servebolt består i dag av personer med bred erfaring innen selskapsledelse, finans, produktutvikling, teknisk utvikling, hosting, netthandel, markedsføring og kommersiell selskapsutvikling"
+                        },
+                        {
+                            "text": "Antall ansatte siden slutten av 2018 har vokst fra 8 til 12."
+                        },
+                        {
+                            "headerText": "Om produktet og kundene",
+                            "text": "For bedrifter i dag er nettsiden den viktigste kanalen for å få nye kunder og gjøre salg, og spesielt for nettbutikker hvor nettsiden er stedet kundene handler. Handler du på nett har du helt sikkert opplevd at en nettbutikk er treg, og kanskje til og med valgt å ikke fortsette handlingen fordi butikken er for treg. Det er dette problemet Servebolt løser og det er derfor kundene, spesielt nettbutikker, strømmer til Servebolt. Ved å ha nettbutikken eller nettsiden hos Servebolt blir den raskere."
+                        },
+                        {
+                            "text": "Servebolt har i dag mange “andregenerasjons” nettside og nettbutikk eiere som kunder, fordi disse kundene tidligere har lært hvor viktig det er med hastighet, stabilitet og profesjonell drift. Dette er også gunstig for Servebolt fordi det betyr mer profesjonelle kunder, og dermed mindre support. "
+                        },
+                        {
+                            "text": "Samtidig har disse kundene ofte sett verdien i kvalitet og har en høyere betalingsvilje."
+                        },
+                        {
+                            "headerText": "Her er noe av det kundene til Servebolt sier:",
+                            "text": "After having consistent downtime issues with the old host we decided to move to Servebolt. We met at a WordPress conference in Belgrade, and the founders are friendly and super technical, and they know the ins and outs of WordPress and were able to fix performance we had issues in a jiffy. Currently, the websites load, if not faster, then as fast as a lightningbolt and our downtime issues is gone!"
+                        },
+                        {
+                            "text": "Bhanu Ahluwalia - CEO hos MyThemeShop.com"
+                        },
+                        {
+                            "text": "We got a client to migrate from Uniweb to Servebolt. The reason was that Uniweb had 7-9% downtime 30 days prior to the migration in addition to slow performance. After the migration, a 250% faster performance was measured across all pages."
+                        },
+                        {
+                            "text": "Robin Rismyhr – CEO – Sail.no"
+                        },
+                        {
+                            "text": "For the month of May 2019, my average load speed (site hosted on WP Engine) was 14.04 seconds! Enough was enough and on June 3rd I migrated my site over to Servebolt. After their tech team did some optimisations the load time is now under 2.5 seconds and my 504 errors are all but history. Oh, and Servebolt is 1/2 the price of Wpengine! I'm very happy."
+                        },
+                        {
+                            "text": "Arran Rice – CEO – SimpleFlying.com"
+                        },
+                        {
+                            "text": "“I just made a mistake to migrate my website temporary to a different webhost to check the speed differences. However, you guys rock and I would like to migrate my website back. Is that possible?”"
+                        },
+                        {
+                            "text": "“Har precis testat din tjänst och är SJUKT imponerad!”"
+                        },
+                        {
+                            "text": "Disse kundeutsagnene viser Servebolts unikhet når det kommer til hastighet, skalering og oppetid, de er vesentlig bedre på disse punktene enn selv de mest pengesterke internasjonale konkurrentene."
+                        }
+                    ],
+                    "numberOfEmployee": "11",
+                    "CEO": "Erlend Eide",
+                    "businessWebsiteUrl": "https://servebolt.com/articles/servebolt-2019-year-in-review/"
+                }
+            },
+            "status": "SERVICING",
+            "id": "34b8b91c-f63c-497a-8d90-5585901371f9"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "tomtekjoep_til_firmahytte",
+            "loanAmount": 2000000,
+            "numberOfInvestors": 94,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 2000000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "69",
+                    "profitViewProsentage": "95",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "60",
+                    "liquidityRatio": "1,5",
+                    "solvencyRatio": "23",
+                    "profit": "20"
+                },
+                "purpose": "Kjøp av hyttetomt på Beitostølen",
+                "securityDescription": "1. pri. pant i eiendommen",
+                "introductionText": "Klimateknikk Oslo AS ble etablert i 2006 og er en ingeniørbedrift som leverer ventilasjon, automasjon og kuldetjenester til næringsbygg i Oslo. Selskapet er 100% eid av Bjerkeland Invest AS som eies av Kjetil Bjerkeland. Selskapet skal låne kr 2 mill. til tomtekjøp på Beitostølen via Monner. Tomten skal senere refinansieres og brukes til å bygge firmahytte. Lånet er sikret med 1. prioritets pant i eiendommen.",
+                "title": "Tomtekjøp til firmahytte",
+                "aboutTheLoan": [
+                    {
+                        "text": "Vi skal bygge firmahytte i løpet av sommeren/høsten 2021 på Sørre Garli på Beitostølen. Dette lånet vil finansiere kjøp av tomten til firmahytten. Lånet er sikret med førsteprioritetspant i eiendommen."
+                    },
+                    {
+                        "text": "Tanken bak hytteprosjektet er å få på plass en gode til våre ansatte, noe som vil styrke samholdet og bygge videre på kulturen vi har i selskapet. Vi har en strategi om å vokse med inntil 2 nye ansatte innen 2021. I et marked hvor det er stor konkurranse om de rette menneskene, tror vi at en firmahytte som er disponibel for alle, vil være veldig positiv for videre vekst. Lenke til hjemmeside for salgsoppgave fra Privatmegleren ligger under Om bedriften."
+                    },
+                    {
+                        "headerText": "Infrastruktur",
+                        "text": "Området er opparbeidet med privat vei og offentlig vann og avløp via private stikkledninger. Det blir tilrettelagt for bredbånd og kabel-tv. Ledningsnettet blir lagt i bakken. Det må påregnes kostnader for brøyting, veivedlikehold, etc. samt tilknytning kabel-tv og bredbånd."
+                    },
+                    {
+                        "headerText": "Beliggenhet",
+                        "text": "Sørre Garli er et tomtefelt beliggende meget attraktivt cirka 950 moh. nord for skiløypa (Grønn 1) opp mot Garli. Det er fantastisk utsikt mot Slettefjell, Mugnetind (1738 moh.) og Bitihorn (1607 moh.) fra tomten. Dette er et tomteområde som må karakteriseres som et av de aller beste på Beitostølen, vestvendt, i lett skrånende terreng med meget gode solforhold. Fra eiendommen har du nærmest ubegrensede muligheter hva gjelder skiopplevelser med preparerte skiløyper rett utenfor hytteveggen. Når det gjelder alpinanlegg har Raudalen stedets mest utfordrende bakker. Om sommeren kan en kortere biltur bringe deg videre inn i fjellheimen med utgangspunkt for fascinerende turopplevelser i Jotunheimen, en båttur på Bygdin eller Gjende med påfølgende tur over Besseggen. Området har selvfølgelig også meget gode jakt- og fiskemuligheter."
+                    },
+                    {
+                        "headerText": "Beskrivelse av nærområdet / fasiliteter",
+                        "text": "Beitostølen blir ofte kalt Porten til Jotunheimen, og det er ikke uten grunn. Herfra har du det majestetiske fjellmassivet nærmest rett rundt hjørnet, med Besseggen, Bygdin, og mange av Norges topper over 2300 moh."
+                    },
+                    {
+                        "text": "Beitostølen er en moderne fjell landsby i stadig utvikling, ca. 900 moh, i Øystre Slidre kommune. Innenfor en radius av 500 meter finner du et bredt utvalg av butikker, restauranter, utesteder, hoteller, spa og andre servicetilbud. Dette er nok Norges mest kompakte fjelldestinasjon og, syntes vi, helt sikkert Norges hyggeligste!"
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med førsteprioritets pant i eiendommen på kr 2,2 mill. Bruks- og gårdsnummer på eiendommen er hhv. 3 og 1271 i Øystre Slidre kommune."
+                    }
+                ],
+                "loanAmount": "2000000",
+                "riskClass": "B",
+                "terms": {
+                    "numberOfInstallements": "18",
+                    "leadPrincipleFreeInstallments": "17",
+                    "interestPa": "7.8",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "47",
+                        "valueResult": "17",
+                        "equityRatio": "23",
+                        "year": "2019",
+                        "deptRatio": "3",
+                        "liquidityRatio": "1,5"
+                    },
+                    {
+                        "roeTotability": "42",
+                        "valueResult": "20",
+                        "equityRatio": "20",
+                        "year": "2018",
+                        "deptRatio": "4",
+                        "liquidityRatio": "1,4"
+                    },
+                    {
+                        "roeTotability": "0",
+                        "valueResult": "-1",
+                        "equityRatio": "24",
+                        "year": "2017",
+                        "deptRatio": "3",
+                        "liquidityRatio": "1,3"
+                    }
+                ],
+                "aboutTheLoanImageText": "Hovedbilde: viser området ved tomten. T.v: oversiktsbilde av hyttefeltet på Beitostølen, vi har kjøpt B4.  Bilder hendet fra salgsannonsen til Privatmegleren (se lenke i Om bedriften). \nT.h: typisk leveranse fra Klimateknikk Oslo AS, her i Colosseum Park ",
+                "aboutTheLoanImage1": "/document/id/c254d80e-cc0b-4922-a477-b31fa4dfd667",
+                "aboutTheLoanImage2": "/document/id/f7c9fcce-cdf0-4b52-9f19-2ad623f212c8",
+                "loanCustomer": {
+                    "organistionNumber": "987 455 233",
+                    "mainImage": "/document/id/096829d5-806d-4838-b912-18e9087eac81",
+                    "businessImage1": "/document/id/02bfb549-84fb-44aa-85e3-7dd8a5b8fab7",
+                    "businessName": "KLIMATEKNIKK OSLO AS",
+                    "businessImageText": "Faglig leder Knut Bergersen og daglig leder Kjetil Bjerkeland",
+                    "legalBusinessName": "KLIMATEKNIKK OSLO AS",
+                    "aboutTheBusiness": [
+                        {
+                            "text": "Klimateknikk Oslo AS er en ingeniørbedrift som leverer ventilasjon, automasjon og kuldetjenester til næringsbygg i Oslo. Vi gjør prosjektering og utførelse. "
+                        },
+                        {
+                            "text": "Selskapet er 100% eid av Bjerkland Invest AS som eies av Kjetil Bjerkland. Etter en omstrukturering i 2017, har vi nå stabilisert oss på en årlig omsetning på cirka kr 40 mill. Grunnet stor pågang av prosjekter, har vi startet prosessen med å øke staben med inntil 2 nye ingeniører."
+                        },
+                        {
+                            "headerText": "Våre nøkkelpersoner",
+                            "text": "Knut Bergersen, faglig leder, har høyskoleingeniør utdannelse innen VVS, og har 25 års erfaring fra bransjen. "
+                        },
+                        {
+                            "text": "Heidi Fredstad har 50% stilling som kontormedarbeider med hovedansvaret for utarbeidelse av FDV prosjekter."
+                        },
+                        {
+                            "text": "Tore Bjerkland har ansvaret for service og reklamasjoner."
+                        },
+                        {
+                            "text": "Kjetil Bjerkeland, daglig leder, har høyskoleutdannelse innen VVS og har 25 års erfaring fra bransjen."
+                        },
+                        {
+                            "headerText": "Våre kunder",
+                            "text": "I forbindelse med en omstrukturering av bedriften i 2017, gjennomførte vi en omfattende evaluering av våre kunder. Kort fortalt ble følgende evaluert: "
+                        },
+                        {
+                            "text": "Hvilke kunder passer vår bedrift, og ikke minst hvilke kunder passer ikke vår bedrift."
+                        },
+                        {
+                            "text": "Hvilke kunder lykkes vi sammen med, og hvilke kunder lykkes vi ikke med."
+                        },
+                        {
+                            "text": "Hvilke prosjekter skaper ønsket bunnlinje, og hvilke prosjekter taper vi penger på."
+                        },
+                        {
+                            "text": "Evalueringen førte frem til at vi valgte en kundegruppe bestående av 6 selskaper, som vi har fokusert på å knytte nærmere oss. Denne evalueringen/øvelsen har resultert i umiddelbare positive endringer for bedriften."
+                        },
+                        {
+                            "text": "Våre nærmeste samarbeidsparter:"
+                        },
+                        {
+                            "text": "Haga &amp; Berg Entreprenør AS, Håndverkeriet AS, Byggimpuls AS, Alliero AS, Olaf E Eriksen AS, Malling &amp; Co, Eiendomsforvaltning AS."
+                        }
+                    ],
+                    "numberOfEmployee": "4",
+                    "CEO": "Kjetil Bjerkeland",
+                    "email": "kjetil@klimateknikk.no",
+                    "businessWebsiteUrl": "https://privatmegleren.no/dyve/159170453/beitost-len-s-rre-garli-fantastiske-h-yfjellstomter-panoramautsikt-grensende-til-skil-yper-17-tomter-solgt/komplettsalgsoppgave"
+                }
+            },
+            "status": "SERVICING",
+            "id": "af130f45-2094-48ff-946d-00efaa7ec621"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "sjokoladeprodusent_satser_lokalt",
+            "loanAmount": 1000000,
+            "numberOfInvestors": 132,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 1000000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "78",
+                    "profitViewProsentage": "40",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "90",
+                    "liquidityRatio": "2,3",
+                    "solvencyRatio": "28",
+                    "profit": "3"
+                },
+                "purpose": "Nytt utsalgssted, produktutvikling og ny kjølebil",
+                "introductionText": "Gjøvik Chokolade ble stiftet i 1996, og produserer og selger egen sjokolade. Bedriften har i mange år kun vært opptatt av sitt nærmarked, og har ikke brukt ressurser på markedsføring og posisjonering. De siste årene har selskapet opplevd en betydelig vekst i etterspørselen etter deres produkter, både gjennom økt salg i egne utsalgssteder - og i bedriftsmarkedet. Selskapet leverer sjokolade både til sluttbruker og lokale matprodusenter.  Dette lånet skal brukes til å finansiere etablering av nytt utsalg på Lillehammer, noe produktutvikling og delfinansiering av kjølebil som skal brukes til distribusjon av varer mellom Gjøvik, Lillehammer og Hamar. Lånet er sikret med 2. prioritets pant i driftsmidler.",
+                "securityDescription": "2. pri pant i driftsmidler",
+                "video": "https://player.vimeo.com/external/393910115.sd.mp4?s=5d0c391271172db2ae335c33f27f6752094944ce&amp;profile_id=165",
+                "title": "Sjokoladeprodusent satser lokalt",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hva skal lånet brukes til?",
+                        "text": "Dette lånet skal brukes til å finansiere et nytt utsalgssted i Storgata på Lillehammer, samt utvidelse av vårt produktsortiment og delfinansiering av en kjølebil."
+                    },
+                    {
+                        "headerText": "Veksten fremover",
+                        "text": "Utsalgsstedene våre på CC Gjøvik og på CC Hamar har vist vekst, og vi er nå klare for å åpne vårt tredje utsalgssted på Lillehammer i Storgata. Butikken ligger svært sentralt i en koselig gågate i Lillehammers bykjerne, blant mange andre butikker."
+                    },
+                    {
+                        "text": "Vi ønsker å ha flere ben å stå på og med dette skal vi utvide vårt produktsortiment med vår egen iskrem samt en lokal kvalitetsost."
+                    },
+                    {
+                        "text": "Til sommeren skal vi begynne med produksjon av vår italienske iskrem Gelato. Vår Gelato er både lokal og økologisk, fra et lokalt gårdsmeieri som tilbyr oss gode og friske råvarer. Denne produksjonen skal også sikre jevn vekst og økt omsetning spesielt i de varmere månedene i året. Vi har inngått et samarbeid med et nytt lokalt ysteri, som skal produsere kvalitetsost som vi skal selge mot provisjon. Vi har samme målgruppe av forhandlere. Ved dette samarbeidet kan vi øke kompetansen og nettverket vårt ytterligere - og utvikle nye varianter av sjokolade. "
+                    },
+                    {
+                        "headerText": "Merkevare/salg",
+                        "text": "Bedriften har gjennom disse snart 25 årene opparbeidet en god merkevare, og vi har god kompetanse på merkevarebygging. I samarbeid med studenter fra NTNU er vi nå i ferd med å forandre vårt hele design. Vi har fokus på miljøvennlig innpakning, og har som mål å være helt plastfrie i løpet av 2021. I disse dager har vi eksperimentert med et nytt design, hvor vi bruker en mer eksklusiv gavepakning (konfekteske). Denne inneholder 12 praliner mot tidligere 15. Vi satte disse ved siden av hverandre i utsalget før morsdag, og vi solgte ut alle de eksklusive før vi solgte noen av de gamle, selv om prisen pr eske var den samme, dvs at prisen pr pralin var kr 3,- dyrere for den nye esken. Det viser at vi kan øke fortjenesten pr produkt ved å gå over til en mer eksklusiv design. Det er ikke prisen som er avgjørende for vårt salg, men kundeopplevelsen."
+                    },
+                    {
+                        "headerText": "Nye produkter",
+                        "text": "Vi bruker bare råvarer av svært høy kvalitet i produksjonen av sjokolade og gelato (is).Når det gjelder gelatoen har vi nå inngått et samarbeid med et lokalt økologisk gårdsmeieri hvor vi får gode råvarer. Vi har også inngått et samarbeid med et nytt lokalt ysteri, som skal produsere kvalitetsost. Disse to produsentene er interessert i at vi, mot provisjon, skal selge og distribuere deres varer i Innlandet, da vi har samme målgruppe av forhandlere. Vi solgte noen aksjer til disse, da vi ser at vi sammen kan øke kompetansen og nettverket ytterligere. Vi vil i samarbeid utvikle nye varianter av sjokolade og i disse dager ønsker vi å utviklet en dessertsjokolade for restaurantmarkedet og innlede samarbeid med en restaurant i Gjøvik og en i Oslo. I løpet av neste år regner vi med at vi skal ha en avtale med 10 eksklusive restauranter. Med et forsiktig anslag med en nettoomsetning på kr 50.000,-/år, innebærer dette en omsetningsøkning på 0,5 mill. pr år. En av ingrediensene som skal inngå i en slik dessert, er den nye sjokoladetypen, Ruby (sjekk Google og du vil finne oss i Dagbladet og Nrk) Ruby er den fjerde sjokoladevarianten, og Gjøvik Chokolade er en av få i Norge som fører denne. (Den blir for dyr for de store produsentene). På bakgrunn av dette, har Tine ytret ønske om å komme til vår fabrikk på Gjøvik for å eksperimentere og filme denne."
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med 2. prioritets pant i selskapets driftsmidler. Pantet har prioritet etter DNB Bank ASA sitt pant på kr 535 000. Gjøvik Chokolade sin gjeld til DNB er kr 190 000."
+                    }
+                ],
+                "loanAmount": "1000000",
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "36",
+                    "leadPrincipleFreeInstallments": "0",
+                    "interestPa": "9.1",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "N/A",
+                        "valueResult": "3",
+                        "equityRatio": "N/A",
+                        "year": "2019",
+                        "deptRatio": "N/A",
+                        "liquidityRatio": "N/A"
+                    },
+                    {
+                        "roeTotability": "10",
+                        "valueResult": "3",
+                        "equityRatio": "28",
+                        "year": "2018",
+                        "deptRatio": "3",
+                        "liquidityRatio": "2,3"
+                    },
+                    {
+                        "roeTotability": "-2",
+                        "valueResult": "-1",
+                        "equityRatio": "26",
+                        "year": "2017",
+                        "deptRatio": "3",
+                        "liquidityRatio": "1,7"
+                    }
+                ],
+                "aboutTheLoanImage1": "/document/id/5b77f92e-093b-4576-9d39-f23d28d107a6",
+                "aboutTheLoanImage2": "/document/id/0c217582-ec79-436f-a364-187c51547ff8",
+                "loanCustomer": {
+                    "organistionNumber": "976 557 190",
+                    "mainImage": "/document/id/ab1f08d7-caab-4536-8e89-606791868877",
+                    "businessImage1": "/document/id/ddb958b7-02a6-472d-85a6-49c2091f9cbd",
+                    "businessFacebookUrl": "https://www.facebook.com/Gjoviksjokolade/",
+                    "businessName": "GJØVIK CHOKOLADE AS",
+                    "legalBusinessName": "GJØVIK CHOKOLADE AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Kommentar til finansielle nøkkeltall",
+                            "text": "Gjøvik Chokolade AS har hatt en jevn omsetningsøkning de siste.  I 2018 var omsetningen på kr 4,4 mill., estimert salg for 2019 ligger på litt over kr 5 mill., og etter strategisk oppkjøp av konkurrent og nye utsalgssteder i 2019 har selskapet en forventning om å nå ca. kr 7,5 mill. i omsetning i 2020.  Det er gjennomført mange tiltak i 2019 for å legge tilrette for denne økningen i salg, blant annet fikk selskapet to nye utsalgssteder - på CC Gjøvik og CC Hamar basert på stor etterspørsel i disse områdene. I 2019 ble det gjennomført et oppkjøp av en lokal konkurrent med gode lokaler for salg og produksjon, samtidig som mang også får mulighet til å legge hjemmelaget is til produktsortimentet i løpet av sommerperioden. Oppkjøpet medførte også endel ekstraordinære kostnader, blant annet på grunn av doble lokal-leier i seks måneder. Bortsett fra disse ekstraordinære kostnadene har selskapet god kontroll på sine kostnader, og har i alle år hatt en svært god Experian score rundt 800-900 poeng. (Se Kredittrapport under Dokumentasjon).  "
+                        },
+                        {
+                            "headerText": "Om bedriften",
+                            "text": "Gjøvik Chokolade AS ble etablert i 1996 av Jan og Bjørn Rognstad, og holder til i Gjøvik. Fabrikken vår er en av få produsenter av sjokolade i Norge - og har blitt elsket av både turister og Gjøvikensere i snart 25 år. På grunn av stor etterspørsel åpnet vi utsalgssteder av vår sjokolade på CC Gjøvik og CC Hamar i 2019. "
+                        },
+                        {
+                            "text": "Gjennom våre snart 25 år i bransjen, har vi opparbeidet en god merkevare og erfaring på produksjons- og salgsfeltet. Vi ønsker å holde tritt med dagens samfunn, og satser derfor på miljøvennlige innpakninger og økologisk- og lokalproduserte råvarer, både for sjokolade og iskrem. Innen 2021 skal vi også være helt plastfrie. "
+                        },
+                        {
+                            "text": "Sommeren 2019 kjøpte vi opp konkursboet til en konkurrent i nærområdet. Dette oppkjøpet har gitt oss tilgang til betydelig bedre lokaler med bedre beliggenhet, som dessuten er bedre egnet for produksjon av våre sjokoladepraliner. "
+                        },
+                        {
+                            "headerText": "Menneskene bak",
+                            "text": "Daglig leder, Jan Rognstad har gått av med pensjon, men vil bidra på timebasis inn mot høytider og perioder der vi må øke intensiteten på produksjonen. "
+                        },
+                        {
+                            "text": "Magnus Rognstad Swensen skal være fungerende daglig leder for selskapet inntil 1  mai 2020, da Mette Stenersen tar over. "
+                        },
+                        {
+                            "text": "Mette Stenersen har vært ansatt i turistdestinasjonen Visit Innlandet i mange år, og har et stort kontaktnett i distriktet, samt mye erfaring fra konditor-yrket. Hun er erfaren og kjenner våre potensielle nye forhandlere godt. Dette er en fordel for vårt selskap samt framtidige avtaler og drift."
+                        },
+                        {
+                            "text": "I tillegg har vi to konditorer som sørger for produksjon av vår sjokolade. Disse er kompetente, effektive og kunnskapsrike. "
+                        },
+                        {
+                            "headerText": "Om tjenesten/produktet",
+                            "text": "Siden oppstart av vår sjokoladefabrikk har vi på denne tiden opparbeidet en god merkevare. Både turister og Gjøvikensere tar turen innom butikkene våre, og nyter sjokoladen vår."
+                        },
+                        {
+                            "text": "Likevel ønsker vi å stadig fornye oss. I forbindelse med dette eksperimenterer vi nå med et nytt og mer eksklusivt design på innpakningen til sjokoladene våre, samt jobber med å utvikle mer miljøvennlige innpakninger og varer."
+                        },
+                        {
+                            "headerText": "Markedsføring",
+                            "text": "Våre hovedkanaler for markedsføring er sosiale medier. Vi er tilstede på Facebook hvor vi har over 8500 likes og Instagram hvor vi har over 2000 følgere. Vi har vært på festivalen Rørosmartnan i 21 år, hvor vi i alle år har stått innendørs i hallen. I år valgte vi å stå utendørs i Kirkegata i tillegg. Dette reduserte ikke omsetningen i hallen, mens vi økte omsetningen med ca 50% ved å stå ute i tillegg."
+                        },
+                        {
+                            "text": "Under Rørosmartnan kom vi i kontakt med flere småskalaprodusenter som ønsket å samarbeide med oss. Vi er nå i ferd med å lage ulike sjokolader med innhold fra disse, noe som kan resultere i en eksklusiv \"Rørosserie\" med lokalt tilsnitt og med Gjøvik Sjokolade."
+                        },
+                        {
+                            "headerText": "Kundene våre",
+                            "text": "Gjøvik Chokolade AS selger hovedsakelig til enkeltkunder på våre utsalgssteder på CC Gjøvik og CC Hamar. Disse er både lokale og lojale kunder, samt turister."
+                        }
+                    ],
+                    "numberOfEmployee": "25",
+                    "CEO": "Magnus Rognstad Swensen",
+                    "email": "bjorrogn@gmail.com",
+                    "businessWebsiteUrl": "https://www.gjoviksjokoladefabrikk.no/"
+                }
+            },
+            "status": "SERVICING",
+            "id": "dd908afa-dc77-4aa1-b85c-b26e22c2a42b"
+        },
+        {
+            "isPledgable": false,
+            "aliasId": "refinansiering_holtevegen_fase_",
+            "loanAmount": 2995000,
+            "numberOfInvestors": 191,
+            "progressBar": 100,
+            "coreInfo": {
+                "status": "SERVICING"
+            },
+            "daysLeft": null,
+            "equityDetails": null,
+            "amountPledged": 2995000,
+            "progress": 100,
+            "caseType": "LOAN",
+            "description": {
+                "economicIndicatorsOverview": {
+                    "solvencyRatioViewColour": "3",
+                    "profitViewColour": "3",
+                    "solvencyRatioViewProsentage": "45",
+                    "profitViewProsentage": "80",
+                    "liquidityRatioViewColour": "3",
+                    "liquidityRatioViewProsentage": "95",
+                    "liquidityRatio": "12,1",
+                    "solvencyRatio": "11",
+                    "profit": "11"
+                },
+                "purpose": "Refinansiering av kampanje fra mars 2019",
+                "securityDescription": "Sidestilt 2. pri. pant i eiendommen",
+                "introductionText": "AS-Eiendom AS ble etablert i 2014 og kjøper, videreutvikler og selger eiendommer i Midt-Norge. Dette lånet skal brukes til å refinansiere fase 1 av eiendomsprosjektet Holtevegen 9 i Trondheim, som gikk til kjøp av tomt, prosjektering og oppstart grunnarbeid til eiendommen. AS-Eiendom AS har for tiden tre eiendomsprosjekter som finansieres via Monner; Lundemobakken, Holtevegen og Kyvannsvegen-prosjektet. Selskapets første Monner-prosjekt, Øvre Jakobsli, ble gjennomført etter planen. Lånene ble tilbakebetalt i august 2019. Dette lånet vil ha sidestilt 2. prioritet pant i eiendommen etter et legalpant på kr 100 000. Lånet er avdragsfritt i hele låneperioden og hele lånebeløpet forfaller til betaling på siste termin. Låneavtalen muliggjør overtagelse av de to boligene hver for seg, se informasjon under og i låneavtalen under Dokumentasjon. ",
+                "title": "Refinansiering Holtevegen fase 1",
+                "loanAmount": "2995000",
+                "aboutTheLoan": [
+                    {
+                        "headerText": "Hvorfor skal Holtevegen fase 1 refinansieres?",
+                        "text": "Prosjektet er totalt 3-4 måneder forsinket og er estimert ferdigstilt senest 30. mars 2020. Dette er ca. 4 uker etter vår reviderte plan. Årsaken til forsinkelsene er i all hovedsak interne utfordringer hos valgte totalentreprenør. Husene er ikke annonsert for salg da planen er å ferdigstille husene, for så å selge dem. Selskapet forventer å legge husene ut for salg 30 mars. Markedet i Trondheim fungerer for tiden bra og boligene ligger i et attraktivt strøk på Heimdal. Det forventes at boligene selges relativt raskt etter annonsering. "
+                    },
+                    {
+                        "headerText": "Hva skal vi bruke lånet til?",
+                        "text": "Dette lånet til kr 2,995 mill. skal brukes til å refinansiere fase 1: kjøp av tomt, prosjektering og oppstart grunnarbeid til eiendommen Holtevegen 9 i Trondheim. Totalt har AS-Eiendom AS lånt kr 8,5 mill. til prosjektet, fordelt på fem lån."
+                    },
+                    {
+                        "text": "Det jobbes nå med ferdigstillelse av de innvendige arbeidene på de to moderne eneboligene. Det blir to innholdsrike boliger med 4 soverom, åpent kjøkken og stueløsning, bad i forbindelse med hovedsoverom i 1 etasje og bad/vaskerom tilknyttet de tre øvrige soverommene i sokkel. Eiendommens gårds- og bruksnummer er 197 og 957 i Trondheim kommune."
+                    },
+                    {
+                        "text": "Resultatet av eiendomsprosjektet Holtevegen 9 vil være to moderne eneboliger i kjede, på 108 kvm pr enhet. Boligene ligger i et godt område på Heimdal, med nærhet til skoler, butikker og ca 600 m i luftlinje fra Heimdal Sentrum. Boligene vil ha en smart utforming, gode solforhold, området er godt etablert. 4 soverom, 2 bad og garasje, fine terrasser. Grunnforholdene er litt fjell og svakt skrående terreng, med relativt enkelt grunnarbeid. Det er lagt opp til en god standard med 1-stavsparkett, profilerte dører og kjøkken fra Marbodal og en vedlikeholdsvennlig fasade."
+                    },
+                    {
+                        "text": "Totalt har AS-Eiendom AS lånt kr 8,5 mill. til prosjektet. For å minimalisere risikoen i prosjektet er det inngått en avtale om totalentreprise fra Byggnord AS (www.byggnord.no). Totalentreprisen er til en fast pris på kr 4,9 mill. = kr 22 731 per kvm. Byggnord AS er en veletablert entreprenør som har flere store utbyggere som blant annet Trondheim og Omegn BoligByggerlag (TOBB) i sin kundeportefølje. AS-Eiendom AS har svært god erfaring med Byggnord fra tidligere samarbeid."
+                    },
+                    {
+                        "text": "Prosjektet har blitt utviklet i 5 faser med finansiering gjennom Monner. "
+                    },
+                    {
+                        "text": "Fase 1: Kjøp av tomt, prosjektering og oppstart grunnarbeid (refinansieres med dette lånet)"
+                    },
+                    {
+                        "text": "Fase 2: Ferdigstillelse grunnarbeid og betong "
+                    },
+                    {
+                        "text": "Fase 3: Råbygg inkl. rør og el., klart til gips og maling "
+                    },
+                    {
+                        "text": "Fase 4: Ferdigstillelse innvendig del 1 "
+                    },
+                    {
+                        "text": "Fase 5: Ferdigstillelse innvendig del 2 (stadiet vi er inne i nå)"
+                    },
+                    {
+                        "headerText": "Salg",
+                        "text": "Husene er ikke annonsert for salg da planen er å ferdigstille husene, for så å selge dem. Vi planlegger å legge husene ut for salg i slutten av mars 2020. Markedet i Trondheim fungerer for tiden bra og boligene ligger i et attraktivt strøk på Heimdal. Det forventes at boligene selges relativt raskt etter annonsering. "
+                    },
+                    {
+                        "headerText": "Om sikkerheten",
+                        "text": "Lånet er sikret med sidestilt 2. prioritet pant i eiendommen etter et legalpant på kr 100 000. Lånet er avdragsfritt i hele låneperioden og hele lånebeløpet forfaller til betaling på siste termin. Låneavtalen muliggjør frigivelse av pant i én av de to boligene, i forbindelse med salg av boligen, mot samtidig delvis innfrielse av 50 % av långivernes lånebeløp. Eiendommens gårds- og bruksnummer er 197 og 957 i Trondheim kommune."
+                    }
+                ],
+                "riskClass": "C",
+                "terms": {
+                    "numberOfInstallements": "12",
+                    "leadPrincipleFreeInstallments": "11",
+                    "interestPa": "9.1",
+                    "backpaymentFeePercent": "1"
+                },
+                "economicIndicators": [
+                    {
+                        "roeTotability": "12",
+                        "valueResult": "14",
+                        "equityRatio": "11",
+                        "year": "2019",
+                        "deptRatio": "8",
+                        "liquidityRatio": "12,1"
+                    },
+                    {
+                        "roeTotability": "7",
+                        "valueResult": "16",
+                        "equityRatio": "6",
+                        "year": "2018",
+                        "deptRatio": "14,6",
+                        "liquidityRatio": "5,8"
+                    },
+                    {
+                        "roeTotability": "11",
+                        "valueResult": "16",
+                        "equityRatio": "8",
+                        "year": "2017",
+                        "deptRatio": "11",
+                        "liquidityRatio": "3,5"
+                    }
+                ],
+                "aboutTheLoanImageText": "Bad har blitt flislagt og vegger har blitt kledd og malt siden forrige kampanje.",
+                "aboutTheLoanImage1": "/document/id/bd688534-fe93-4f8f-9512-caa64337ea6c",
+                "aboutTheLoanImage2": "/document/id/ea31068c-d564-419e-907d-2f0c3b79181d",
+                "loanCustomer": {
+                    "organistionNumber": "914 204 577",
+                    "mainImage": "/document/id/5ceca10e-2ed8-4514-b7e6-134f14343268",
+                    "businessImage1": "/document/id/86a45173-8a0a-475b-acfd-fe28718cb348",
+                    "businessFacebookUrl": "https://www.facebook.com/AS-Eiendom-947047972164053/",
+                    "businessName": "AS-EIENDOM AS",
+                    "businessImageText": "Viggo E. Amundsen og Svein Magne Saksvik",
+                    "legalBusinessName": "AS-EIENDOM AS",
+                    "aboutTheBusiness": [
+                        {
+                            "headerText": "Litt om oss",
+                            "text": "AS-Eiendom AS ble etablert i 2014 og selskapets forretningsidé er kjøp av eiendommer for videreutvikling og salg i Midt-Norge. Siden oppstart har selskapet kjøpt og utviklet 7 egne eiendommer og har vært deleier og hatt prosjektledelsen i 4 andre prosjekter. I 2019 ble det kun ferdigstilt 4 prosjekter og igangsatt 3 prosjekter (se oversikt under Dokumentasjon). For 2020 planlegges det ferdigstillelse og salg av de pågående prosjektene Lundemobakken (mai), Holtvegen (februar/mars) og Kyvannsvegen (august), i tillegg har selskapet signert avtale om kjøp av en eneboligtomt i Johan Tilers vei 17, hvor det forventes oppstart i løpet av februar/mars. Utover dette er målsetningen den samme som 2019, at selskapet gjennomfører og selger 7-8 egne prosjekter i løpet av 2020. Selskapet har flere gode prosjekter under vurdering og har håp om å kunne starte opp i tillegg til Johan Tilers vei, et-to nye prosjekt i løpet av første halvår og ytterlige 3 prosjekter i løpet av siste halvår."
+                        },
+                        {
+                            "text": "I tillegg er selskapet deleier (30%) i Fortunalia Panorama AS som holder på å bygge 7 eneboliger for salg i Trondheim. Byggingen er igangsatt alle 7 boligene er solgt hvor av 2 av 7 hus ble levert i desember 2019 og resterende 5 husene ferdigstilles og overleveres fortløpende 3 stk er planlagt overlevert i Q1 2020 og de 2 siste husene er planlagt overlevert i løpet av april 2020. Salgsverdi er ca. kr 52,5 mill. og kalkulert resultat er ca. kr 10 mill. før skatt. Det er inngått totalentreprise med en lokal entreprenør."
+                        },
+                        {
+                            "headerText": "Kommentar til regnskap",
+                            "text": "Selskapet fører regnskapene selv og de er til enhver tid oppdatert. Regnskapet for 2018 viser en omsetning på kr 18,3 mill., med et resultat på kr 1,7 mill. etter skatt. For 2019 budsjetterte selskapet med en omsetning på ca. kr 40 mill. og et resultat på ca. kr 3,5 mill. Men på grunn av forsinkelser nevnt tidligere fikk ikke selskapet ferdigstilt så mange prosjekter som planlagt. Foreløpige tall per desember 2019 viser en foreløpig omsetning på kr 20 mill. og et foreløpig resultat før skatt på kr 2 mill. Selskapet har en deltidsansatt regnskapsfører som fører regnskapene og holder orden i papirene på kontoret slik at Svein Magne og Viggo kan ha fullt fokus på kjernevirksomheten."
+                        },
+                        {
+                            "headerText": "Om menneskene bak",
+                            "text": "Svein Magne Saksvik er daglig leder, han er utdannet murer med mesterbrev, og har over 20 års erfaring fra bygg- og anleggsbransjen, hvor han har hatt både utførende og ledende roller i ulike entreprenørselskaper. Svein Magnes hovedoppgave er kalkulering, drift og gjennomføring av selskapets prosjekter. "
+                        },
+                        {
+                            "text": "Viggo E. Amundsen er styrets leder og har bakgrunn fra økonomi, salg og ledelse. Han har de siste 6 årene jobbet i entreprenørbransjen, hans hovedoppgave er å finne eiendommer som selskapet kan utvikle, samt å håndtere de finansielle aspektene i selskapet. "
+                        },
+                        {
+                            "text": "Svein Magne og Viggo har tidligere vært eiere og styremedlemmer i entreprenørkonsernet Loqent, som ble slått konkurs i 2017. På dette tidspunktet satt Viggo som styreleder i selskapet og Svein Magne satt som styremedlem. Hovedårsaken til konkursen var at selskapet vokste for raskt. Selskapet hadde på det meste 50 ansatte. Entreprenørbransjen er krevende i denne størrelsen og da gjennomføringen av et større byggeprosjekt gikk galt, fikk selskapet utfordringer med likviditeten. I et forsøk på å rydde opp og få selskapet i balanse overtok Viggo og Svein Magne alle aksjene og ledelsen i selskapet. Svein Magne og Viggo tilførte ny egenkapital ved flere anledninger i form av økning i egenkapitalen og innlån av penger. "
+                        },
+                        {
+                            "text": "Mot slutten hadde ikke selskapet nok penger til både lønn og skattetrekk, men hadde pågående prosjekter og innbetalinger i sikte. Prosjektene ble levert, men kraftig forsinket og oppgjørene ble avkortet med døgnmulkt og andre mangler. Dette gjorde at det ikke ble nok penger til å innbetale skattetrekket fullt ut. Resultatet i dette ble at Viggo og Svein Magne, som utgjorde ledelsen ved konkurstidspunktet, ble politianmeldt for dette. På grunn av beløpets størrelse ble Viggo, som satt som styreleder under konkursen, i januar 2019 domfelt for dette forholdet. "
+                        },
+                        {
+                            "text": "Viggo har følgende kommentar til saken: \"Dette er en alvorlig sak og den har gitt meg mye læring. Den viktigste lærdommen er at man alltid skal ha tilstrekkelig likviditet og god nok soliditet i selskapet til å håndtere overraskelser. Ting går ikke alltid som planlagt. I selskapet som jeg leder i dag, AS-Eiendom AS, har vi derfor blant annet valgt å ikke gjennomføre byggeoppdragene selv, men å sette ut byggingen til en totalentreprenør, eller til delt entreprise samtidig som vi internt har kompetanse til å følge opp utviklingen i byggeprosjektene selv.\""
+                        },
+                        {
+                            "headerText": "Selskapets administrasjon",
+                            "text": "AS-Eiendom har prosjektrelaterte kostnader på netto kr 168 000 per måned."
+                        },
+                        {
+                            "text": "Selskapet har tre heltidsstillinger og en deltidsstilling. "
+                        },
+                        {
+                            "text": "Administrasjonen vurderer driftskostnadene til lave og disse kostnadene lar seg imidlertid ikke redusere. Selskapets ledelse planlegger å holde administrasjonen slik den er og ut 2024. Selskapets administrasjon har kapasiteten til å håndtere inntil 10 boenheter/prosjekter per år."
+                        },
+                        {
+                            "headerText": "Risiko",
+                            "text": "Selskapet har en meget forutsigbar drift, og det er ikke knyttet usikkerheter rundt kostnader som ikke er prosjektrelaterte kostnader. For å sikre forutsigbare kostnader i prosjektene gjennomfører selskapet alle sine prosjekter i form av totalentreprise eller som delte entrepriser til faste priser, som er avtalt før prosjektene igangsettes. Det velges også utelukkende faste samarbeidspartnere som over tid har vist gode resultater både økonomisk og kvalitetsmessig. "
+                        },
+                        {
+                            "text": "Før selskapet velger ut et prosjekt og kjøper en eiendom eller en tomt, gjøres det nøye undersøkelser og utredelser for å kvalitetssikre at prosjektet er gjennomførbart. Selskapet søker prosjekter som kan realiseres innenfor 1-2 år. "
+                        },
+                        {
+                            "text": "For prosjektfinansiering samarbeider selskapet med Hegra Sparebank, SMN 1 og Monner."
+                        }
+                    ],
+                    "numberOfEmployee": "9",
+                    "CEO": "Svein Magne Saksvik",
+                    "businessWebsiteUrl": "https://as-eiendom.webnode.com/"
+                }
+            },
+            "status": "SERVICING",
+            "id": "53305f47-f79c-4b69-aa6c-eeef8fa6f15a"
+        }
+    ],
+    "status": "ok"
+}
