@@ -1,6 +1,7 @@
 import requests
 import json
-from bs4 import BeautifulSoup
+import tkinter as tk
+from tkinter import messagebox
 
 def load_projects():
     projects = []
@@ -32,8 +33,15 @@ def parseProjects(suggestion_list):
 
 def alertNewProjects(new_projects):
     if (len(new_projects) > 0):
+        string_msg = ''
         for project in new_projects:
-            print(project)
+            string_msg += project + '\n'
+        showMessage(string_msg)
+
+def showMessage(msg):
+    root = tk.Tk()
+    root.withdraw()
+    messagebox.showwarning('New projects', msg)
 
 if __name__ == "__main__":
     loaded_projects = load_projects()
